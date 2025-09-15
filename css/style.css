@@ -1,0 +1,959 @@
+/* Odisha Education Management System - Cultural Design */
+
+:root {
+    /* Odisha Traditional Color Palette */
+    --odisha-saffron: #FF8C00;        /* Primary saffron - government buildings */
+    --odisha-deep-saffron: #FF7F00;   /* Darker saffron */
+    --odisha-red: #B1554F;            /* Traditional red from borders */
+    --odisha-deep-red: #8B0000;       /* Deep red from Pattachitra */
+    --odisha-lotus-white: #FFF8DC;    /* Lotus white background */
+    --odisha-earth: #D2691E;          /* Earth tone from traditional art */
+    --odisha-forest-green: #228B22;   /* Green from nature motifs */
+    --odisha-sun-yellow: #FFD700;     /* Sun temple gold */
+    --odisha-sky-blue: #87CEEB;       /* Peaceful blue */
+    --odisha-text-dark: #2F1B14;      /* Dark brown text */
+    --odisha-text-muted: #8B4513;     /* Brown muted text */
+    --odisha-border: #DEB887;         /* Burlywood border */
+    --odisha-shadow: 0 4px 12px rgba(255, 140, 0, 0.2);
+
+    /* Typography */
+    --font-odia: 'Noto Sans Oriya', sans-serif;
+    --font-english: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+
+    /* SAP Compatible Variables */
+    --sap-primary: var(--odisha-saffron);
+    --sap-primary-dark: var(--odisha-deep-saffron);
+    --sap-background: var(--odisha-lotus-white);
+    --sap-surface: #ffffff;
+    --sap-text: var(--odisha-text-dark);
+    --sap-text-muted: var(--odisha-text-muted);
+    --sap-border: var(--odisha-border);
+    --sap-success: var(--odisha-forest-green);
+    --sap-warning: #e9730c;
+    --sap-error: var(--odisha-deep-red);
+    --sap-shadow: var(--odisha-shadow);
+    --sap-radius: 0.5rem;
+    --sap-spacing-s: 0.5rem;
+    --sap-spacing-m: 1rem;
+    --sap-spacing-l: 1.5rem;
+    --sap-spacing-xl: 2rem;
+}
+
+* { 
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box; 
+}
+
+body {
+    font-family: var(--font-english);
+    background: linear-gradient(135deg, var(--odisha-lotus-white) 0%, #FFF5E6 100%);
+    color: var(--odisha-text-dark);
+    font-size: 0.9rem;
+    line-height: 1.6;
+    min-height: 100vh;
+}
+
+/* Odia text styling */
+.odia-text, .odia-brand, .odia-brand-main {
+    font-family: var(--font-odia);
+    font-weight: 600;
+}
+
+/* Loading Screen with Konark Wheel */
+.odisha-loading-screen {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(135deg, var(--odisha-saffron) 0%, var(--odisha-deep-saffron) 50%, var(--odisha-red) 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+    color: white;
+}
+
+.odisha-loading-container {
+    text-align: center;
+    max-width: 500px;
+    padding: var(--sap-spacing-xl);
+}
+
+.konark-wheel-loader {
+    margin-bottom: var(--sap-spacing-xl);
+}
+
+.wheel-design {
+    width: 120px;
+    height: 120px;
+    border: 4px solid rgba(255,255,255,0.3);
+    border-radius: 50%;
+    margin: 0 auto;
+    position: relative;
+    animation: wheelSpin 3s linear infinite;
+}
+
+.wheel-design::before {
+    content: '☀';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 3rem;
+    animation: sunPulse 2s ease-in-out infinite alternate;
+}
+
+.wheel-spokes {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 80px;
+    height: 80px;
+    transform: translate(-50%, -50%);
+    border: 2px solid rgba(255,255,255,0.6);
+    border-radius: 50%;
+}
+
+.loading-text h1 {
+    font-size: 2.5rem;
+    margin-bottom: var(--sap-spacing-s);
+    font-family: var(--font-odia);
+}
+
+.loading-text h2 {
+    font-size: 1.2rem;
+    margin-bottom: var(--sap-spacing-l);
+    opacity: 0.9;
+}
+
+.heritage-tagline {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    margin-bottom: var(--sap-spacing-xl);
+}
+
+.heritage-tagline .odia-text {
+    font-size: 1.1rem;
+    font-family: var(--font-odia);
+}
+
+.heritage-tagline .english-text {
+    font-size: 0.9rem;
+    opacity: 0.8;
+}
+
+.loading-progress {
+    width: 300px;
+    height: 6px;
+    background: rgba(255,255,255,0.3);
+    border-radius: 3px;
+    margin: var(--sap-spacing-l) auto;
+    overflow: hidden;
+}
+
+.progress-bar {
+    height: 100%;
+    background: white;
+    border-radius: 3px;
+    animation: progressLoad 4s ease-out forwards;
+}
+
+.loading-status {
+    font-size: 0.85rem;
+    opacity: 0.8;
+    margin-top: var(--sap-spacing-m);
+}
+
+/* Login Page with Cultural Background */
+.odisha-login-container {
+    min-height: 100vh;
+    background: linear-gradient(135deg, var(--odisha-saffron) 0%, var(--odisha-deep-saffron) 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: var(--sap-spacing-l);
+    position: relative;
+}
+
+.cultural-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.1;
+    background-image: 
+        radial-gradient(circle at 20% 20%, var(--odisha-red) 2px, transparent 2px),
+        radial-gradient(circle at 80% 80%, var(--odisha-red) 2px, transparent 2px);
+    background-size: 50px 50px, 60px 60px;
+    animation: patternFloat 20s linear infinite;
+}
+
+.pattachitra-pattern {
+    width: 100%;
+    height: 100%;
+    background: 
+        linear-gradient(45deg, transparent 40%, var(--odisha-red) 40%, var(--odisha-red) 60%, transparent 60%),
+        linear-gradient(-45deg, transparent 40%, var(--odisha-red) 40%, var(--odisha-red) 60%, transparent 60%);
+    background-size: 20px 20px;
+    opacity: 0.1;
+}
+
+.odisha-login-shell {
+    background: var(--odisha-lotus-white);
+    border-radius: var(--sap-radius);
+    box-shadow: var(--odisha-shadow);
+    overflow: hidden;
+    width: 100%;
+    max-width: 700px;
+    animation: slideInUp 0.6s ease;
+    border: 3px solid var(--odisha-sun-yellow);
+}
+
+.odisha-login-header {
+    background: linear-gradient(135deg, var(--odisha-saffron), var(--odisha-deep-saffron));
+    color: white;
+    padding: var(--sap-spacing-xl);
+    text-align: center;
+    position: relative;
+}
+
+.govt-emblem {
+    display: flex;
+    justify-content: center;
+    gap: var(--sap-spacing-l);
+    margin-bottom: var(--sap-spacing-l);
+    font-size: 2.5rem;
+}
+
+.ashoka-chakra {
+    animation: slowRotate 10s linear infinite;
+}
+
+.system-branding .odia-brand {
+    font-size: 2.2rem;
+    margin-bottom: 0.25rem;
+    font-family: var(--font-odia);
+    font-weight: 700;
+}
+
+.english-brand {
+    display: block;
+    font-size: 1.1rem;
+    opacity: 0.9;
+    margin-bottom: var(--sap-spacing-m);
+}
+
+.heritage-subtitle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: var(--sap-spacing-s);
+    padding-top: var(--sap-spacing-m);
+    border-top: 1px solid rgba(255,255,255,0.3);
+    font-size: 0.95rem;
+}
+
+.konark-symbol {
+    font-size: 1.2rem;
+    animation: sunPulse 3s ease-in-out infinite alternate;
+}
+
+.live-indicator {
+    position: absolute;
+    top: var(--sap-spacing-m);
+    right: var(--sap-spacing-m);
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    font-size: 0.8rem;
+    background: rgba(255,255,255,0.2);
+    padding: 0.25rem var(--sap-spacing-s);
+    border-radius: 15px;
+}
+
+/* Login Form */
+.odisha-login-form {
+    padding: var(--sap-spacing-xl);
+}
+
+.welcome-section {
+    text-align: center;
+    margin-bottom: var(--sap-spacing-xl);
+}
+
+.login-title {
+    font-size: 1.8rem;
+    color: var(--odisha-text-dark);
+    margin-bottom: var(--sap-spacing-s);
+    font-family: var(--font-odia);
+}
+
+.login-subtitle {
+    color: var(--odisha-text-muted);
+    font-size: 1rem;
+}
+
+.system-status {
+    background: linear-gradient(135deg, rgba(255, 215, 0, 0.1), rgba(255, 140, 0, 0.1));
+    border: 2px solid var(--odisha-sun-yellow);
+    border-radius: var(--sap-radius);
+    padding: var(--sap-spacing-l);
+    margin-bottom: var(--sap-spacing-xl);
+}
+
+.system-status h3 {
+    color: var(--odisha-text-dark);
+    margin-bottom: var(--sap-spacing-m);
+    font-size: 1.1rem;
+}
+
+.status-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: var(--sap-spacing-m);
+}
+
+.status-item {
+    display: flex;
+    align-items: center;
+    gap: var(--sap-spacing-s);
+    font-size: 0.9rem;
+    color: var(--odisha-text-dark);
+}
+
+.status-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    flex-shrink: 0;
+}
+
+.status-dot.green {
+    background: var(--odisha-forest-green);
+    box-shadow: 0 0 10px rgba(34, 139, 34, 0.5);
+    animation: pulse 2s infinite;
+}
+
+/* Form Elements */
+.sap-form-group {
+    margin-bottom: var(--sap-spacing-l);
+}
+
+.sap-label {
+    display: block;
+    font-weight: 500;
+    margin-bottom: var(--sap-spacing-s);
+    color: var(--odisha-text-dark);
+    font-size: 0.95rem;
+}
+
+.sap-select, .sap-input {
+    width: 100%;
+    padding: var(--sap-spacing-m);
+    border: 2px solid var(--odisha-border);
+    border-radius: var(--sap-radius);
+    font-size: 0.9rem;
+    font-family: inherit;
+    background: white;
+    color: var(--odisha-text-dark);
+    transition: all 0.3s ease;
+}
+
+.sap-select:focus, .sap-input:focus {
+    outline: none;
+    border-color: var(--odisha-saffron);
+    box-shadow: 0 0 0 3px rgba(255, 140, 0, 0.2);
+    transform: translateY(-1px);
+}
+
+.sap-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: var(--sap-spacing-s);
+    padding: var(--sap-spacing-m) var(--sap-spacing-xl);
+    border: none;
+    border-radius: var(--sap-radius);
+    font-family: inherit;
+    font-size: 0.95rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-decoration: none;
+    min-height: 48px;
+}
+
+.sap-btn-primary {
+    background: linear-gradient(135deg, var(--odisha-saffron), var(--odisha-deep-saffron));
+    color: white;
+    width: 100%;
+    box-shadow: var(--odisha-shadow);
+}
+
+.sap-btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(255, 140, 0, 0.3);
+}
+
+.sap-btn-primary:active {
+    transform: translateY(0);
+}
+
+/* Demo Credentials */
+.demo-credentials {
+    margin-top: var(--sap-spacing-xl);
+    padding-top: var(--sap-spacing-xl);
+    border-top: 2px solid var(--odisha-border);
+}
+
+.demo-credentials h3 {
+    color: var(--odisha-text-dark);
+    margin-bottom: var(--sap-spacing-s);
+}
+
+.demo-note {
+    color: var(--odisha-text-muted);
+    font-size: 0.85rem;
+    margin-bottom: var(--sap-spacing-l);
+}
+
+.credentials-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: var(--sap-spacing-m);
+}
+
+.credential-card {
+    background: white;
+    border: 2px solid var(--odisha-border);
+    border-radius: var(--sap-radius);
+    padding: var(--sap-spacing-l);
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.credential-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 140, 0, 0.1), transparent);
+    transition: left 0.5s ease;
+}
+
+.credential-card:hover::before {
+    left: 100%;
+}
+
+.credential-card:hover {
+    transform: translateY(-3px);
+    border-color: var(--odisha-saffron);
+    box-shadow: var(--odisha-shadow);
+}
+
+.role-icon {
+    font-size: 2.5rem;
+    margin-bottom: var(--sap-spacing-s);
+    display: block;
+}
+
+.role-name {
+    font-weight: 600;
+    margin-bottom: 0.25rem;
+    color: var(--odisha-text-dark);
+    font-size: 0.9rem;
+}
+
+.credential-info {
+    font-size: 0.8rem;
+    color: var(--odisha-text-muted);
+    margin-bottom: 0.25rem;
+}
+
+.data-count {
+    font-size: 0.75rem;
+    color: var(--odisha-saffron);
+    font-weight: 500;
+}
+
+/* Cultural Footer */
+.cultural-footer {
+    margin-top: var(--sap-spacing-xl);
+    padding-top: var(--sap-spacing-l);
+    text-align: center;
+    position: relative;
+}
+
+.footer-pattern {
+    height: 3px;
+    background: linear-gradient(90deg, 
+        var(--odisha-saffron) 0%, 
+        var(--odisha-red) 25%, 
+        var(--odisha-sun-yellow) 50%, 
+        var(--odisha-red) 75%, 
+        var(--odisha-saffron) 100%);
+    margin-bottom: var(--sap-spacing-m);
+    border-radius: 2px;
+}
+
+.heritage-text {
+    color: var(--odisha-text-muted);
+    font-size: 0.85rem;
+}
+
+.heritage-text .odia-text {
+    font-family: var(--font-odia);
+    font-size: 1rem;
+    color: var(--odisha-text-dark);
+}
+
+/* Main Application */
+.sap-shell {
+    display: flex;
+    height: 100vh;
+    background: var(--odisha-lotus-white);
+}
+
+.sap-header {
+    background: white;
+    border-bottom: 3px solid var(--odisha-saffron);
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 var(--sap-spacing-xl);
+    box-shadow: var(--odisha-shadow);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.sap-header-left {
+    display: flex;
+    align-items: center;
+    gap: var(--sap-spacing-xl);
+}
+
+.system-brand {
+    display: flex;
+    align-items: center;
+    gap: var(--sap-spacing-m);
+}
+
+.brand-icon {
+    font-size: 2rem;
+    color: var(--odisha-saffron);
+}
+
+.brand-text .odia-brand-main {
+    font-size: 1.4rem;
+    font-family: var(--font-odia);
+    color: var(--odisha-text-dark);
+    display: block;
+    line-height: 1.2;
+}
+
+.english-brand-sub {
+    color: var(--odisha-text-muted);
+    font-size: 0.75rem;
+}
+
+.real-time-stats {
+    display: flex;
+    gap: var(--sap-spacing-l);
+}
+
+.stat-item {
+    display: flex;
+    flex-direction: column;
+    font-size: 0.75rem;
+}
+
+.stat-label {
+    color: var(--odisha-text-muted);
+}
+
+.stat-value {
+    color: var(--odisha-saffron);
+    font-weight: 600;
+}
+
+.sap-header-right {
+    display: flex;
+    align-items: center;
+    gap: var(--sap-spacing-l);
+}
+
+.language-toggle {
+    display: flex;
+    background: var(--odisha-lotus-white);
+    border-radius: var(--sap-radius);
+    overflow: hidden;
+    border: 1px solid var(--odisha-border);
+}
+
+.lang-btn {
+    padding: var(--sap-spacing-s) var(--sap-spacing-m);
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    font-size: 0.8rem;
+    transition: all 0.3s ease;
+}
+
+.lang-btn.active {
+    background: var(--odisha-saffron);
+    color: white;
+}
+
+.sap-header-user {
+    display: flex;
+    align-items: center;
+    gap: var(--sap-spacing-m);
+}
+
+.user-info {
+    text-align: right;
+}
+
+.user-name {
+    display: block;
+    font-weight: 600;
+    color: var(--odisha-text-dark);
+    font-size: 0.9rem;
+}
+
+.user-role {
+    color: var(--odisha-text-muted);
+    font-size: 0.75rem;
+}
+
+.sap-user-avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, var(--odisha-saffron), var(--odisha-deep-saffron));
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+/* Main Container */
+.main-container {
+    display: flex;
+    flex: 1;
+}
+
+.sap-sidebar {
+    width: 280px;
+    background: white;
+    border-right: 2px solid var(--odisha-border);
+    height: calc(100vh - 70px);
+    overflow-y: auto;
+}
+
+.sap-nav {
+    padding: var(--sap-spacing-l);
+}
+
+.sap-nav-item {
+    display: flex;
+    align-items: center;
+    padding: var(--sap-spacing-m);
+    color: var(--odisha-text-dark);
+    text-decoration: none;
+    border-radius: var(--sap-radius);
+    margin-bottom: var(--sap-spacing-s);
+    font-weight: 500;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.sap-nav-item::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 0;
+    background: linear-gradient(90deg, var(--odisha-saffron), var(--odisha-deep-saffron));
+    transition: width 0.3s ease;
+    z-index: -1;
+}
+
+.sap-nav-item:hover::before,
+.sap-nav-item.active::before {
+    width: 100%;
+}
+
+.sap-nav-item:hover,
+.sap-nav-item.active {
+    color: white;
+    transform: translateX(5px);
+}
+
+.sap-nav-icon {
+    margin-right: var(--sap-spacing-m);
+    font-size: 1.1rem;
+}
+
+.sidebar-footer {
+    padding: var(--sap-spacing-l);
+    border-top: 1px solid var(--odisha-border);
+    margin-top: auto;
+}
+
+.cultural-element {
+    text-align: center;
+    color: var(--odisha-text-muted);
+}
+
+.konark-mini {
+    font-size: 1.5rem;
+    color: var(--odisha-saffron);
+    margin-bottom: 0.25rem;
+    animation: sunPulse 4s ease-in-out infinite alternate;
+}
+
+/* Main Content */
+.sap-main {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.sap-breadcrumb {
+    padding: var(--sap-spacing-m) var(--sap-spacing-xl);
+    background: rgba(255, 140, 0, 0.05);
+    border-bottom: 1px solid var(--odisha-border);
+    display: flex;
+    align-items: center;
+    gap: var(--sap-spacing-s);
+    color: var(--odisha-text-muted);
+    font-size: 0.85rem;
+}
+
+.sap-breadcrumb-separator {
+    color: var(--odisha-saffron);
+    font-weight: bold;
+}
+
+.sap-content {
+    flex: 1;
+    padding: var(--sap-spacing-xl);
+    overflow-y: auto;
+}
+
+.sap-page-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: var(--sap-spacing-xl);
+    padding-bottom: var(--sap-spacing-l);
+    border-bottom: 2px solid var(--odisha-border);
+}
+
+.sap-page-title {
+    font-size: 2rem;
+    font-weight: 600;
+    color: var(--odisha-text-dark);
+    margin-bottom: 0.25rem;
+}
+
+.sap-page-subtitle {
+    color: var(--odisha-text-muted);
+    font-size: 1rem;
+}
+
+.header-actions {
+    display: flex;
+    gap: var(--sap-spacing-m);
+}
+
+.action-btn {
+    padding: var(--sap-spacing-s) var(--sap-spacing-l);
+    background: linear-gradient(135deg, var(--odisha-saffron), var(--odisha-deep-saffron));
+    color: white;
+    border: none;
+    border-radius: var(--sap-radius);
+    cursor: pointer;
+    font-size: 0.85rem;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+.action-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--odisha-shadow);
+}
+
+.content-area {
+    background: white;
+    border-radius: var(--sap-radius);
+    padding: var(--sap-spacing-xl);
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    border: 1px solid var(--odisha-border);
+}
+
+/* Notifications */
+.notification-container {
+    position: fixed;
+    top: var(--sap-spacing-l);
+    right: var(--sap-spacing-l);
+    z-index: 3000;
+    display: flex;
+    flex-direction: column;
+    gap: var(--sap-spacing-s);
+    max-width: 400px;
+}
+
+.notification {
+    background: white;
+    border-left: 4px solid var(--odisha-saffron);
+    border-radius: var(--sap-radius);
+    padding: var(--sap-spacing-l);
+    box-shadow: var(--odisha-shadow);
+    transform: translateX(100%);
+    animation: slideInRight 0.4s ease forwards;
+}
+
+.notification.success {
+    border-left-color: var(--odisha-forest-green);
+}
+
+.notification.error {
+    border-left-color: var(--odisha-deep-red);
+}
+
+/* Animations */
+@keyframes wheelSpin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+
+@keyframes sunPulse {
+    from { opacity: 0.7; transform: scale(0.95); }
+    to { opacity: 1; transform: scale(1.05); }
+}
+
+@keyframes progressLoad {
+    from { width: 0%; }
+    to { width: 100%; }
+}
+
+@keyframes slideInUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes slideInRight {
+    from { transform: translateX(100%); }
+    to { transform: translateX(0); }
+}
+
+@keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.6; }
+}
+
+@keyframes slowRotate {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+
+@keyframes patternFloat {
+    0% { background-position: 0 0, 0 0; }
+    100% { background-position: 50px 50px, -60px -60px; }
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+    .sap-sidebar {
+        width: 240px;
+    }
+
+    .real-time-stats {
+        display: none;
+    }
+}
+
+@media (max-width: 768px) {
+    .sap-sidebar {
+        display: none;
+    }
+
+    .sap-header {
+        padding: 0 var(--sap-spacing-m);
+        height: 60px;
+    }
+
+    .brand-text .odia-brand-main {
+        font-size: 1.2rem;
+    }
+
+    .credentials-grid {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .user-info {
+        display: none;
+    }
+
+    .sap-page-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: var(--sap-spacing-m);
+    }
+
+    .status-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 480px) {
+    .odisha-login-shell {
+        margin: var(--sap-spacing-m);
+    }
+
+    .credentials-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .govt-emblem {
+        font-size: 2rem;
+    }
+
+    .loading-text h1 {
+        font-size: 2rem;
+    }
+
+    .wheel-design {
+        width: 80px;
+        height: 80px;
+    }
+}
+
+/* Utility Classes */
+.hidden { 
+    display: none !important; 
+}
