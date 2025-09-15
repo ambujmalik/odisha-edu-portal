@@ -1,0 +1,699 @@
+id,name,subject,qualification,experience,schoolId,classes,phone,salary,joiningDate
+1,Mr. Kabir Dash,Social Science,M.Sc,4 years,1,"[""Class 10"", ""Class 8"", ""Class 1""]",9735211325,40267,2021-07-27
+2,Ms. Navya Rout,English,M.Sc,7 years,1,"[""Class 4"", ""Class 2"", ""Class 3"", ""Class 7""]",9548823352,81568,2017-06-05
+3,Ms. Aanya Sahoo,Science,M.A,19 years,1,"[""Class 9"", ""Class 7"", ""Class 3"", ""Class 6""]",9720239684,51452,2022-03-08
+4,Mrs. Jai Kumar,English,M.Sc,18 years,1,"[""Class 5"", ""Class 5"", ""Class 8""]",9124730560,67726,2003-04-02
+5,Mrs. Ayaan Kar,Science,M.A,11 years,1,"[""Class 8"", ""Class 10""]",9310769880,33446,2012-11-24
+6,Mr. Shaurya Jena,Science,B.A,19 years,1,"[""Class 4"", ""Class 8"", ""Class 1""]",9729261611,44844,2004-07-05
+7,Mrs. Divyansh Tripathy,Odia,B.Sc,11 years,1,"[""Class 7"", ""Class 7"", ""Class 1""]",9520390655,25576,2020-07-26
+8,Mr. Saanvi Samantaray,Social Science,M.A,1 years,1,"[""Class 1"", ""Class 6""]",9370605059,44940,2020-12-25
+9,Ms. Aanya Sahoo,Social Science,M.A,12 years,1,"[""Class 1"", ""Class 6"", ""Class 7"", ""Class 3""]",9375183965,80650,2014-03-22
+10,Mr. Arjun Sahu,English,B.A,23 years,1,"[""Class 9"", ""Class 4"", ""Class 9""]",9352583371,46841,2006-09-15
+11,Ms. Aanya Senapati,Hindi,B.Sc,12 years,1,"[""Class 10"", ""Class 6""]",9945012930,81651,2009-11-06
+12,Mrs. Pihu Patel,Social Science,M.A,17 years,1,"[""Class 8"", ""Class 1"", ""Class 6"", ""Class 3""]",9613593207,59902,2003-09-11
+13,Ms. Shivansh Mohanty,Science,B.Sc,19 years,1,"[""Class 9"", ""Class 6"", ""Class 9""]",9647641109,57364,2001-11-27
+14,Mrs. Darsh Patel,Social Science,M.A,24 years,1,"[""Class 7"", ""Class 6"", ""Class 10""]",9281837593,58802,2019-01-10
+15,Mr. Diya Patra,Social Science,M.Sc,18 years,1,"[""Class 9"", ""Class 2""]",9540528127,47777,2011-11-24
+16,Mrs. Inaya Pradhan,Computer Science,B.A,17 years,2,"[""Class 4"", ""Class 3"", ""Class 6""]",9936572825,76197,2022-12-16
+17,Mr. Ayaan Sharma,English,B.A,5 years,2,"[""Class 4"", ""Class 8"", ""Class 4""]",9157771294,79520,2006-12-30
+18,Mrs. Harsh Dash,Hindi,B.A,18 years,2,"[""Class 2"", ""Class 5"", ""Class 2"", ""Class 2""]",9943765921,75494,2016-01-13
+19,Ms. Pari Mohapatra,Hindi,B.Ed,20 years,2,"[""Class 10"", ""Class 3""]",9812578656,35953,2008-12-16
+20,Mr. Prisha Maharana,Social Science,M.Sc,14 years,2,"[""Class 6"", ""Class 6"", ""Class 8""]",9965644648,40298,2011-05-25
+21,Ms. Khushi Samantaray,Science,B.A,11 years,2,"[""Class 1"", ""Class 7"", ""Class 10""]",9124970514,40920,2002-09-25
+22,Ms. Daksh Singh,English,B.Sc,24 years,2,"[""Class 6"", ""Class 2"", ""Class 7""]",9461821715,75438,2020-09-03
+23,Mr. Prisha Dash,Science,B.A,3 years,2,"[""Class 1"", ""Class 4"", ""Class 9""]",9643089892,49269,2012-03-12
+24,Ms. Atharv Singh,Mathematics,B.A,3 years,2,"[""Class 7"", ""Class 7""]",9868120085,63433,2007-04-06
+25,Mr. Shanaya Kar,Odia,B.Sc,19 years,2,"[""Class 1"", ""Class 5""]",9791848194,40445,2019-05-20
+26,Mr. Pihu Pradhan,Computer Science,M.Sc,15 years,2,"[""Class 3"", ""Class 2"", ""Class 9""]",9280417420,84541,2022-11-14
+27,Mr. Vivaan Nayak,Odia,B.Sc,19 years,2,"[""Class 7"", ""Class 9""]",9519404345,67380,2014-10-29
+28,Ms. Prisha Tripathy,Science,B.Sc,5 years,2,"[""Class 4"", ""Class 9"", ""Class 10"", ""Class 9""]",9766859494,64668,2015-01-13
+29,Mrs. Daksh Barik,Mathematics,B.A,1 years,2,"[""Class 1"", ""Class 4"", ""Class 5"", ""Class 3""]",9871830417,48876,2010-06-03
+30,Mrs. Kabir Dash,Odia,B.Sc,16 years,3,"[""Class 2"", ""Class 6""]",9420414343,77011,2016-10-14
+31,Mr. Aryan Sahu,Hindi,M.A,17 years,3,"[""Class 6"", ""Class 5"", ""Class 2"", ""Class 2""]",9558091750,50053,2017-05-24
+32,Mr. Aadhya Tripathy,Social Science,B.Sc,6 years,3,"[""Class 5"", ""Class 4"", ""Class 3""]",9898992848,51148,2009-10-11
+33,Mr. Kiaan Naik,Social Science,B.A,18 years,3,"[""Class 6"", ""Class 7"", ""Class 3"", ""Class 7""]",9239724396,65119,2001-03-21
+34,Mr. Kian Pradhan,English,B.Sc,13 years,3,"[""Class 3"", ""Class 4"", ""Class 1"", ""Class 9""]",9595973487,32193,2015-08-11
+35,Mr. Om Singh,Science,B.A,10 years,3,"[""Class 2"", ""Class 1""]",9687014529,49678,2016-01-26
+36,Ms. Riya Kar,Mathematics,M.A,17 years,3,"[""Class 6"", ""Class 4"", ""Class 1"", ""Class 9""]",9323896277,61694,2008-12-11
+37,Mr. Atharv Kumar,Hindi,M.A,10 years,3,"[""Class 5"", ""Class 1"", ""Class 2""]",9189791434,32637,2015-06-25
+38,Mrs. Arnav Rout,Social Science,B.Sc,22 years,3,"[""Class 10"", ""Class 8"", ""Class 5""]",9442619610,73121,2011-04-26
+39,Mr. Neil Mohanty,Computer Science,B.A,13 years,3,"[""Class 5"", ""Class 7""]",9668941693,73531,2016-09-18
+40,Mrs. Darsh Behera,English,B.Sc,3 years,3,"[""Class 1"", ""Class 3"", ""Class 6"", ""Class 6""]",9948815729,36923,2021-07-01
+41,Mr. Yash Jena,Hindi,M.A,5 years,3,"[""Class 9"", ""Class 2"", ""Class 1""]",9811303209,57765,2024-06-12
+42,Ms. Pari Rout,Social Science,B.Sc,24 years,3,"[""Class 6"", ""Class 8"", ""Class 4""]",9382753196,33612,2016-09-08
+43,Mrs. Krishna Naik,English,M.Sc,3 years,3,"[""Class 7"", ""Class 4""]",9893355302,31257,2018-04-03
+44,Mrs. Myra Lenka,Mathematics,B.A,25 years,3,"[""Class 9"", ""Class 2""]",9673456092,34020,2014-04-08
+45,Ms. Krishna Sharma,Science,B.Sc,25 years,3,"[""Class 4"", ""Class 5"", ""Class 5""]",9229218728,42142,2012-04-21
+46,Ms. Abhinav Kumar,Hindi,B.A,23 years,3,"[""Class 6"", ""Class 10"", ""Class 6""]",9170003675,53482,2003-05-19
+47,Ms. Divyansh Swain,English,B.Ed,5 years,3,"[""Class 3"", ""Class 8"", ""Class 7""]",9733935876,42287,2001-01-12
+48,Ms. Ayaan Lenka,Social Science,M.A,25 years,4,"[""Class 2"", ""Class 4""]",9587285886,30769,2023-12-07
+49,Mrs. Abhinav Sahoo,English,B.Ed,20 years,4,"[""Class 10"", ""Class 8"", ""Class 6"", ""Class 3""]",9378648021,68069,2011-01-30
+50,Ms. Vedant Biswal,Computer Science,B.A,9 years,4,"[""Class 5"", ""Class 6"", ""Class 1""]",9242473490,41767,2017-02-15
+51,Mr. Atharv Sahu,Hindi,B.Sc,20 years,4,"[""Class 9"", ""Class 8""]",9782059566,63629,2015-04-21
+52,Ms. Aryan Kar,Mathematics,B.A,13 years,4,"[""Class 8"", ""Class 2"", ""Class 8"", ""Class 9""]",9828545124,79878,2016-07-28
+53,Ms. Raghav Jena,Computer Science,B.Sc,9 years,4,"[""Class 8"", ""Class 5"", ""Class 9"", ""Class 1""]",9428867066,75645,2023-01-02
+54,Mrs. Aditya Rout,Hindi,B.A,11 years,4,"[""Class 7"", ""Class 7"", ""Class 10""]",9900951918,64357,2002-09-18
+55,Mrs. Rudra Rout,Computer Science,B.Sc,3 years,4,"[""Class 6"", ""Class 5"", ""Class 5"", ""Class 10""]",9617459051,32275,2019-06-16
+56,Ms. Sai Rout,English,B.A,16 years,4,"[""Class 8"", ""Class 4""]",9726286244,78512,2017-07-08
+57,Mr. Raghav Mishra,Odia,B.Sc,17 years,4,"[""Class 6"", ""Class 9"", ""Class 9""]",9969915308,59140,2019-02-14
+58,Ms. Pari Sahoo,Mathematics,B.Ed,18 years,4,"[""Class 6"", ""Class 5"", ""Class 2"", ""Class 9""]",9866659394,43199,2012-01-13
+59,Mr. Raghav Senapati,Hindi,M.A,6 years,5,"[""Class 2"", ""Class 4"", ""Class 1"", ""Class 2""]",9144370370,55839,2017-07-16
+60,Mr. Vedant Nayak,Mathematics,B.Sc,5 years,5,"[""Class 5"", ""Class 6"", ""Class 9"", ""Class 10""]",9894302954,49535,2001-12-13
+61,Mr. Abhinav Naik,Science,B.Sc,3 years,5,"[""Class 1"", ""Class 7""]",9901544938,81393,2013-06-10
+62,Mr. Raghav Samantaray,Hindi,B.Ed,7 years,5,"[""Class 8"", ""Class 5"", ""Class 4""]",9151358756,51777,2017-12-30
+63,Mr. Sai Jena,Hindi,B.A,6 years,5,"[""Class 2"", ""Class 9"", ""Class 9"", ""Class 4""]",9231891378,63781,2023-04-24
+64,Mr. Dev Pradhan,Odia,B.Sc,9 years,5,"[""Class 9"", ""Class 5""]",9843371103,62378,2001-10-04
+65,Ms. Om Sharma,Social Science,B.Sc,22 years,5,"[""Class 9"", ""Class 8"", ""Class 10"", ""Class 10""]",9300489344,64633,2008-12-28
+66,Mr. Kabir Kar,Social Science,B.Ed,16 years,5,"[""Class 7"", ""Class 4"", ""Class 1"", ""Class 6""]",9432335446,74614,2013-12-02
+67,Mrs. Khushi Singh,Social Science,M.A,16 years,5,"[""Class 9"", ""Class 5"", ""Class 10""]",9406263116,78818,2003-12-15
+68,Ms. Arjun Singh,Computer Science,M.A,11 years,5,"[""Class 4"", ""Class 6"", ""Class 9""]",9623712304,74960,2004-10-23
+69,Mr. Inaya Parida,Science,B.Sc,9 years,5,"[""Class 10"", ""Class 2"", ""Class 9"", ""Class 2""]",9822533235,72725,2017-02-23
+70,Mrs. Anika Nayak,Social Science,B.Sc,6 years,5,"[""Class 3"", ""Class 3""]",9273420006,84822,2012-10-25
+71,Mr. Atharv Patra,Computer Science,B.A,3 years,5,"[""Class 3"", ""Class 9"", ""Class 3"", ""Class 2""]",9342582153,51990,2009-12-05
+72,Mrs. Vivaan Sahu,Mathematics,B.A,25 years,5,"[""Class 6"", ""Class 5"", ""Class 10"", ""Class 2""]",9524907366,80668,2019-04-23
+73,Mrs. Samarth Rout,Science,B.A,22 years,6,"[""Class 5"", ""Class 3""]",9248365059,33130,2023-09-17
+74,Mrs. Krishna Pradhan,Odia,B.A,11 years,6,"[""Class 10"", ""Class 8""]",9144746445,54122,2013-07-16
+75,Mr. Riya Mishra,Computer Science,M.Sc,1 years,6,"[""Class 2"", ""Class 8""]",9407757582,49732,2014-06-21
+76,Mrs. Kavya Mishra,Social Science,B.Ed,9 years,6,"[""Class 4"", ""Class 8"", ""Class 5""]",9707220607,32694,2002-01-10
+77,Mr. Daksh Jena,Mathematics,M.A,20 years,6,"[""Class 5"", ""Class 5"", ""Class 8"", ""Class 1""]",9200648157,52832,2019-09-17
+78,Mr. Raghav Pradhan,Hindi,B.Ed,4 years,6,"[""Class 4"", ""Class 2"", ""Class 1""]",9362871893,64525,2014-12-04
+79,Mrs. Rudra Jena,Odia,B.Sc,5 years,6,"[""Class 9"", ""Class 6""]",9478144438,71137,2016-08-28
+80,Mrs. Khushi Singh,Social Science,B.Ed,11 years,6,"[""Class 5"", ""Class 10"", ""Class 10"", ""Class 3""]",9983047656,82129,2003-04-02
+81,Mr. Jai Parida,Hindi,B.Ed,20 years,6,"[""Class 10"", ""Class 6"", ""Class 7""]",9499420515,55881,2004-05-24
+82,Mrs. Divyansh Das,Social Science,B.Ed,14 years,6,"[""Class 3"", ""Class 4"", ""Class 2"", ""Class 4""]",9855874414,26885,2013-09-13
+83,Mr. Kavya Tripathy,English,B.Ed,20 years,6,"[""Class 9"", ""Class 3""]",9727851500,51943,2016-07-08
+84,Mr. Saanvi Kar,Hindi,M.Sc,21 years,6,"[""Class 6"", ""Class 7"", ""Class 8"", ""Class 2""]",9942939779,53440,2003-05-01
+85,Mrs. Pihu Pradhan,Science,B.Ed,13 years,6,"[""Class 3"", ""Class 6"", ""Class 3"", ""Class 10""]",9627459309,59313,2019-11-12
+86,Ms. Atharv Panda,Computer Science,B.Ed,19 years,6,"[""Class 9"", ""Class 8"", ""Class 7""]",9136175845,54822,2003-12-11
+87,Mrs. Darsh Tripathy,Social Science,M.Sc,11 years,6,"[""Class 3"", ""Class 3"", ""Class 10""]",9616614422,63257,2002-04-30
+88,Mrs. Anaya Kar,Hindi,B.A,10 years,6,"[""Class 6"", ""Class 10"", ""Class 2""]",9613467577,42773,2020-10-11
+89,Mr. Avni Biswal,Mathematics,B.Ed,2 years,6,"[""Class 2"", ""Class 4""]",9438175075,84332,2009-02-01
+90,Mr. Yash Jena,Computer Science,B.Sc,4 years,7,"[""Class 4"", ""Class 10""]",9662321569,44021,2012-02-05
+91,Ms. Krishna Senapati,Hindi,M.Sc,2 years,7,"[""Class 7"", ""Class 5""]",9945913177,32803,2022-12-26
+92,Mr. Rudra Mohapatra,Odia,M.Sc,22 years,7,"[""Class 2"", ""Class 5"", ""Class 6""]",9747206325,33845,2010-08-22
+93,Ms. Abhinav Mishra,Science,B.A,13 years,7,"[""Class 10"", ""Class 9"", ""Class 10"", ""Class 5""]",9534189264,47641,2021-07-16
+94,Mr. Krishna Mohapatra,Social Science,B.Sc,24 years,7,"[""Class 10"", ""Class 4""]",9557333929,45579,2024-03-17
+95,Mrs. Rudra Das,Odia,B.Ed,23 years,7,"[""Class 8"", ""Class 4"", ""Class 6"", ""Class 7""]",9550458751,62270,2003-03-20
+96,Ms. Anaya Das,Hindi,M.Sc,14 years,7,"[""Class 2"", ""Class 10""]",9612341192,26622,2005-03-13
+97,Mr. Shaurya Rout,English,M.A,2 years,7,"[""Class 8"", ""Class 5"", ""Class 4""]",9575548046,63141,2012-04-10
+98,Mr. Dev Patel,English,M.A,24 years,7,"[""Class 5"", ""Class 9"", ""Class 9"", ""Class 10""]",9128282429,83039,2005-01-25
+99,Mrs. Anika Das,Mathematics,B.Sc,12 years,7,"[""Class 9"", ""Class 8"", ""Class 1""]",9171047806,64058,2016-10-16
+100,Mr. Navya Kar,Mathematics,B.Ed,4 years,7,"[""Class 8"", ""Class 5""]",9815611599,52304,2003-03-06
+101,Mrs. Inaya Nayak,English,B.A,12 years,7,"[""Class 7"", ""Class 1"", ""Class 10"", ""Class 5""]",9705116898,77721,2002-09-15
+102,Mr. Myra Das,English,M.Sc,19 years,8,"[""Class 6"", ""Class 1"", ""Class 6"", ""Class 6""]",9281323675,53020,2009-04-10
+103,Mrs. Pihu Mohanty,Odia,B.Ed,10 years,8,"[""Class 5"", ""Class 2"", ""Class 3"", ""Class 4""]",9271659909,51045,2012-03-03
+104,Mr. Ayaan Swain,Hindi,B.Sc,18 years,8,"[""Class 2"", ""Class 8""]",9193706791,61971,2001-02-06
+105,Mr. Shanaya Panda,Computer Science,M.Sc,17 years,8,"[""Class 3"", ""Class 8""]",9371197812,70261,2013-12-06
+106,Ms. Raghav Jena,Mathematics,M.A,22 years,8,"[""Class 5"", ""Class 10"", ""Class 5""]",9614627161,35527,2019-05-14
+107,Ms. Rishabh Naik,Computer Science,B.A,22 years,8,"[""Class 10"", ""Class 3""]",9486834062,59692,2008-04-16
+108,Mrs. Sai Sharma,Science,B.Sc,15 years,8,"[""Class 9"", ""Class 10""]",9873522368,31184,2019-02-20
+109,Mr. Sai Mohanty,Social Science,B.A,8 years,8,"[""Class 2"", ""Class 9"", ""Class 6"", ""Class 6""]",9422439952,65620,2005-07-14
+110,Ms. Vivaan Mohanty,Computer Science,M.Sc,18 years,8,"[""Class 10"", ""Class 1"", ""Class 2""]",9607241357,75830,2024-05-21
+111,Mrs. Inaya Mohapatra,Mathematics,M.Sc,3 years,8,"[""Class 2"", ""Class 2"", ""Class 2""]",9383905545,40457,2013-01-24
+112,Mr. Krishna Panda,Hindi,B.A,13 years,8,"[""Class 8"", ""Class 3"", ""Class 1""]",9820805980,39721,2014-10-21
+113,Mr. Riya Biswal,Computer Science,M.Sc,1 years,8,"[""Class 8"", ""Class 7"", ""Class 3"", ""Class 8""]",9812380218,43701,2021-10-03
+114,Mr. Darsh Sahoo,Science,B.A,7 years,8,"[""Class 9"", ""Class 4"", ""Class 7""]",9222913278,59600,2003-11-24
+115,Mr. Shaurya Biswal,Odia,M.Sc,13 years,8,"[""Class 10"", ""Class 1""]",9508448693,39920,2024-02-03
+116,Ms. Arnav Sharma,Computer Science,M.A,18 years,8,"[""Class 7"", ""Class 6"", ""Class 8"", ""Class 4""]",9952651456,47656,2003-03-31
+117,Ms. Kabir Lenka,Odia,M.A,16 years,8,"[""Class 4"", ""Class 4""]",9384192549,68827,2011-08-13
+118,Ms. Rishabh Das,Hindi,B.A,7 years,9,"[""Class 9"", ""Class 1"", ""Class 10""]",9533585871,66197,2002-07-04
+119,Mrs. Myra Singh,Odia,B.A,16 years,9,"[""Class 2"", ""Class 7"", ""Class 10""]",9695889380,46773,2014-11-19
+120,Ms. Rudra Behera,Hindi,M.A,25 years,9,"[""Class 10"", ""Class 3"", ""Class 4""]",9690704555,29043,2009-05-28
+121,Mrs. Ishaan Panda,Hindi,M.Sc,8 years,9,"[""Class 8"", ""Class 1"", ""Class 10"", ""Class 2""]",9442850978,26750,2024-05-13
+122,Mrs. Krishna Maharana,Computer Science,B.Sc,21 years,9,"[""Class 2"", ""Class 6"", ""Class 5"", ""Class 10""]",9223556024,40210,2012-05-29
+123,Ms. Vedant Patel,Science,B.Ed,23 years,9,"[""Class 1"", ""Class 4""]",9723445995,76392,2001-10-30
+124,Mrs. Vihaan Dash,Odia,B.A,23 years,9,"[""Class 7"", ""Class 10"", ""Class 8""]",9927271216,30752,2002-11-14
+125,Ms. Daksh Biswal,English,B.Ed,4 years,9,"[""Class 6"", ""Class 2""]",9908530615,61307,2003-11-16
+126,Ms. Ayaan Tripathy,Social Science,M.A,13 years,9,"[""Class 2"", ""Class 10"", ""Class 7"", ""Class 3""]",9970803319,69658,2002-02-14
+127,Ms. Harsh Parida,Mathematics,M.A,3 years,9,"[""Class 9"", ""Class 3"", ""Class 10""]",9975555050,68495,2001-11-01
+128,Ms. Raghav Das,Computer Science,B.Ed,17 years,10,"[""Class 8"", ""Class 3"", ""Class 2"", ""Class 6""]",9958536224,43607,2004-12-31
+129,Mrs. Saanvi Nayak,Social Science,B.Sc,11 years,10,"[""Class 7"", ""Class 6"", ""Class 10"", ""Class 4""]",9990950970,63537,2008-01-28
+130,Mr. Vihaan Das,Social Science,B.A,8 years,10,"[""Class 3"", ""Class 9""]",9442737514,54648,2017-03-17
+131,Mrs. Inaya Singh,Science,M.Sc,16 years,10,"[""Class 3"", ""Class 7""]",9341170441,43916,2019-01-12
+132,Ms. Diya Kar,Computer Science,B.Sc,8 years,10,"[""Class 9"", ""Class 5"", ""Class 1"", ""Class 6""]",9134163861,29510,2003-06-25
+133,Mrs. Krishna Sahoo,Hindi,B.Sc,15 years,10,"[""Class 1"", ""Class 5"", ""Class 3""]",9893152988,27027,2007-11-21
+134,Mrs. Aarav Patra,Hindi,B.Sc,4 years,10,"[""Class 5"", ""Class 8""]",9517261099,28837,2009-08-31
+135,Mrs. Avni Mohapatra,Computer Science,B.A,8 years,10,"[""Class 1"", ""Class 7"", ""Class 9""]",9548780505,82879,2017-10-27
+136,Mrs. Reyansh Behera,Odia,M.A,19 years,10,"[""Class 4"", ""Class 2"", ""Class 8"", ""Class 9""]",9490353172,31821,2006-04-09
+137,Ms. Neil Swain,English,B.Sc,25 years,10,"[""Class 6"", ""Class 5""]",9841212006,40884,2008-08-11
+138,Mr. Reyansh Jena,Mathematics,B.Sc,3 years,10,"[""Class 1"", ""Class 10"", ""Class 6""]",9626382368,36900,2021-11-09
+139,Ms. Aryan Das,Social Science,M.A,12 years,10,"[""Class 5"", ""Class 10""]",9306879828,66798,2024-04-04
+140,Mrs. Divyansh Naik,Odia,M.Sc,14 years,10,"[""Class 8"", ""Class 2"", ""Class 6"", ""Class 6""]",9917922900,76504,2016-04-25
+141,Ms. Raghav Dash,Social Science,B.Sc,23 years,10,"[""Class 8"", ""Class 8"", ""Class 9""]",9295474776,31880,2002-11-03
+142,Mr. Kavya Barik,Mathematics,B.A,17 years,11,"[""Class 3"", ""Class 1"", ""Class 6"", ""Class 9""]",9417189460,31353,2001-07-14
+143,Mr. Aarav Dash,Science,B.Sc,22 years,11,"[""Class 6"", ""Class 3"", ""Class 6"", ""Class 1""]",9579335041,77931,2022-01-30
+144,Mr. Navya Maharana,English,B.Ed,7 years,11,"[""Class 8"", ""Class 5"", ""Class 9"", ""Class 4""]",9736366772,31807,2012-01-06
+145,Mr. Jai Jena,Science,B.A,15 years,11,"[""Class 3"", ""Class 8"", ""Class 2""]",9917189950,70927,2003-10-01
+146,Mr. Diya Jena,Mathematics,M.Sc,10 years,11,"[""Class 5"", ""Class 4"", ""Class 3"", ""Class 2""]",9210892610,54458,2002-11-12
+147,Mr. Atharv Das,Computer Science,B.Ed,5 years,11,"[""Class 4"", ""Class 5""]",9940801239,76317,2002-01-25
+148,Mrs. Yash Kar,English,B.Ed,11 years,11,"[""Class 5"", ""Class 1"", ""Class 3"", ""Class 10""]",9437566637,79623,2019-03-16
+149,Mr. Riya Sharma,Social Science,M.A,19 years,11,"[""Class 8"", ""Class 7"", ""Class 1"", ""Class 1""]",9627265832,46765,2022-03-13
+150,Mrs. Rishabh Singh,Social Science,B.Sc,6 years,11,"[""Class 6"", ""Class 1"", ""Class 3""]",9342391510,72089,2002-06-19
+151,Mr. Divyansh Parida,Odia,M.A,25 years,11,"[""Class 3"", ""Class 9""]",9809518522,36122,2022-07-04
+152,Ms. Anaya Patel,Hindi,B.Ed,1 years,11,"[""Class 1"", ""Class 3"", ""Class 4""]",9777005716,65382,2006-01-17
+153,Mr. Diya Mohapatra,Odia,B.Ed,2 years,11,"[""Class 6"", ""Class 4""]",9718388431,84620,2007-02-17
+154,Mr. Neil Patra,Social Science,M.A,20 years,11,"[""Class 8"", ""Class 7""]",9357767799,59980,2003-08-12
+155,Mrs. Prisha Patel,Mathematics,M.Sc,25 years,11,"[""Class 9"", ""Class 5"", ""Class 10"", ""Class 1""]",9794799725,36024,2022-10-18
+156,Ms. Reyansh Behera,Hindi,B.A,17 years,11,"[""Class 7"", ""Class 7""]",9556324178,28027,2010-01-08
+157,Ms. Arjun Naik,Hindi,B.A,9 years,11,"[""Class 4"", ""Class 6"", ""Class 4"", ""Class 4""]",9104658016,65726,2009-02-13
+158,Mr. Anaya Mishra,Science,B.Sc,12 years,11,"[""Class 1"", ""Class 7""]",9685485827,70204,2018-10-13
+159,Mr. Shivansh Tripathy,Science,M.A,7 years,11,"[""Class 2"", ""Class 10""]",9493037583,61210,2020-12-04
+160,Mrs. Anaya Lenka,Mathematics,B.A,14 years,11,"[""Class 7"", ""Class 4"", ""Class 9"", ""Class 5""]",9233698696,68537,2006-03-28
+161,Mrs. Saanvi Sahu,Odia,B.Sc,18 years,12,"[""Class 1"", ""Class 7"", ""Class 7"", ""Class 6""]",9947751025,78313,2017-12-30
+162,Mrs. Vihaan Behera,Computer Science,B.Ed,24 years,12,"[""Class 6"", ""Class 3"", ""Class 5"", ""Class 2""]",9717892019,59930,2007-06-18
+163,Mr. Aanya Pradhan,Social Science,B.Ed,8 years,12,"[""Class 2"", ""Class 4"", ""Class 7""]",9309147960,43942,2019-08-23
+164,Ms. Vihaan Barik,Social Science,B.Sc,14 years,12,"[""Class 10"", ""Class 6"", ""Class 4"", ""Class 2""]",9932280477,59999,2004-11-13
+165,Ms. Riya Senapati,Odia,M.Sc,8 years,12,"[""Class 9"", ""Class 3"", ""Class 6""]",9735263142,52766,2017-07-09
+166,Mr. Aarav Biswal,English,B.Ed,24 years,12,"[""Class 9"", ""Class 3"", ""Class 9""]",9950560022,69180,2017-03-02
+167,Ms. Aryan Barik,Odia,M.Sc,12 years,12,"[""Class 4"", ""Class 2"", ""Class 10"", ""Class 10""]",9871332019,77737,2019-06-07
+168,Mrs. Kabir Singh,Computer Science,M.Sc,3 years,12,"[""Class 2"", ""Class 1""]",9288607109,76972,2004-02-20
+169,Mr. Divyansh Swain,Mathematics,B.Ed,21 years,12,"[""Class 5"", ""Class 7"", ""Class 4"", ""Class 8""]",9688732413,83834,2001-06-19
+170,Ms. Anika Panda,Computer Science,B.Ed,14 years,12,"[""Class 7"", ""Class 7"", ""Class 7""]",9647394222,32270,2018-10-16
+171,Mrs. Navya Mohapatra,Odia,M.Sc,21 years,12,"[""Class 6"", ""Class 6""]",9178242703,51441,2008-02-18
+172,Mrs. Om Sahu,Social Science,M.Sc,7 years,12,"[""Class 7"", ""Class 5"", ""Class 10"", ""Class 5""]",9203147865,46438,2005-06-11
+173,Mrs. Pihu Kar,Science,M.Sc,13 years,12,"[""Class 1"", ""Class 9"", ""Class 7""]",9337922299,29179,2023-09-12
+174,Ms. Aadhya Sharma,Mathematics,B.Ed,11 years,13,"[""Class 1"", ""Class 8""]",9586811300,80363,2016-10-31
+175,Ms. Vedant Sharma,Science,B.Sc,12 years,13,"[""Class 4"", ""Class 1""]",9813719759,82715,2009-01-18
+176,Ms. Shaurya Parida,English,M.Sc,9 years,13,"[""Class 1"", ""Class 2"", ""Class 5"", ""Class 10""]",9155016253,64095,2022-02-12
+177,Mr. Vedant Tripathy,English,M.A,25 years,13,"[""Class 2"", ""Class 6""]",9994610604,41797,2010-06-26
+178,Ms. Khushi Sharma,English,B.A,6 years,13,"[""Class 6"", ""Class 3""]",9533213147,80155,2018-07-10
+179,Mrs. Rishabh Barik,Odia,B.Sc,16 years,13,"[""Class 4"", ""Class 2"", ""Class 1""]",9982457545,26180,2008-10-24
+180,Ms. Reyansh Kar,Social Science,B.Ed,1 years,13,"[""Class 6"", ""Class 6"", ""Class 7""]",9641916157,70907,2021-01-17
+181,Mrs. Khushi Kar,English,B.Ed,22 years,13,"[""Class 6"", ""Class 9"", ""Class 5"", ""Class 7""]",9644125327,84735,2023-10-13
+182,Mr. Divyansh Kar,Science,B.Sc,13 years,13,"[""Class 2"", ""Class 4""]",9586655152,66120,2006-12-29
+183,Mr. Reyansh Rout,Hindi,B.Sc,11 years,13,"[""Class 4"", ""Class 9"", ""Class 3"", ""Class 2""]",9538840396,72868,2015-06-22
+184,Mr. Shanaya Panda,Mathematics,B.A,16 years,13,"[""Class 9"", ""Class 1""]",9340712781,52183,2011-01-31
+185,Ms. Anaya Mishra,English,M.Sc,7 years,13,"[""Class 1"", ""Class 5"", ""Class 4""]",9495080584,49507,2018-11-03
+186,Mrs. Aditya Panda,Computer Science,B.A,20 years,13,"[""Class 1"", ""Class 3"", ""Class 6"", ""Class 9""]",9708004176,74322,2020-05-04
+187,Mrs. Shanaya Mishra,Science,M.A,19 years,13,"[""Class 6"", ""Class 2""]",9977750431,56733,2014-08-25
+188,Mr. Anika Sahoo,Social Science,M.A,14 years,13,"[""Class 2"", ""Class 9""]",9478327225,44784,2015-05-07
+189,Mrs. Abhinav Das,Science,M.A,6 years,13,"[""Class 3"", ""Class 3""]",9265919849,62250,2010-04-24
+190,Mrs. Aryan Naik,Science,B.A,10 years,13,"[""Class 6"", ""Class 6"", ""Class 1""]",9125530187,69167,2005-02-17
+191,Mr. Aanya Jena,English,B.Sc,11 years,14,"[""Class 2"", ""Class 5"", ""Class 4"", ""Class 6""]",9652703180,52448,2011-10-25
+192,Mr. Shaurya Rout,Social Science,M.Sc,23 years,14,"[""Class 6"", ""Class 6""]",9220967916,84155,2014-10-13
+193,Mrs. Riya Jena,Social Science,B.A,17 years,14,"[""Class 6"", ""Class 2"", ""Class 1"", ""Class 9""]",9670812788,54318,2019-09-27
+194,Mrs. Kavya Das,Odia,M.A,25 years,14,"[""Class 9"", ""Class 9""]",9847905407,60364,2006-04-17
+195,Mrs. Khushi Pradhan,English,B.Ed,1 years,14,"[""Class 1"", ""Class 6""]",9497902942,66719,2024-06-26
+196,Ms. Abhinav Senapati,Mathematics,B.A,24 years,14,"[""Class 6"", ""Class 3"", ""Class 1""]",9540735253,76721,2001-08-01
+197,Mr. Krishna Barik,Computer Science,B.Ed,3 years,14,"[""Class 1"", ""Class 2"", ""Class 7""]",9864621221,25229,2002-11-13
+198,Mr. Kavya Parida,Computer Science,M.A,6 years,14,"[""Class 9"", ""Class 2""]",9288885125,80162,2015-06-24
+199,Ms. Yash Das,Computer Science,B.Ed,19 years,14,"[""Class 1"", ""Class 1"", ""Class 2"", ""Class 7""]",9299475582,31619,2005-06-30
+200,Mr. Shanaya Lenka,Hindi,M.Sc,23 years,14,"[""Class 10"", ""Class 5"", ""Class 2""]",9305537788,32467,2017-07-21
+201,Mr. Inaya Samantaray,English,B.A,18 years,14,"[""Class 5"", ""Class 4"", ""Class 10"", ""Class 2""]",9882402466,42076,2003-04-01
+202,Mr. Myra Singh,English,M.Sc,10 years,14,"[""Class 2"", ""Class 1"", ""Class 9""]",9898160503,60388,2001-09-07
+203,Ms. Aarav Sahoo,English,M.Sc,10 years,14,"[""Class 2"", ""Class 6"", ""Class 2""]",9524290696,80507,2008-01-28
+204,Ms. Darsh Jena,Social Science,M.Sc,3 years,14,"[""Class 6"", ""Class 7"", ""Class 7"", ""Class 9""]",9114265245,51121,2019-01-23
+205,Mrs. Harsh Sahoo,Social Science,M.A,10 years,14,"[""Class 1"", ""Class 6"", ""Class 9""]",9991420823,28977,2023-05-13
+206,Mrs. Raghav Sahu,Odia,M.Sc,12 years,14,"[""Class 2"", ""Class 3"", ""Class 10""]",9282433824,45845,2018-11-19
+207,Mrs. Atharv Patra,Science,B.A,2 years,14,"[""Class 10"", ""Class 5"", ""Class 10""]",9188543684,74968,2006-01-10
+208,Mr. Reyansh Pradhan,Social Science,B.Sc,10 years,14,"[""Class 6"", ""Class 10"", ""Class 4"", ""Class 3""]",9850164771,36901,2018-12-03
+209,Mrs. Daksh Rout,Science,B.A,1 years,14,"[""Class 4"", ""Class 2""]",9767417701,50047,2015-04-30
+210,Ms. Yash Barik,Computer Science,B.A,17 years,14,"[""Class 8"", ""Class 4"", ""Class 8""]",9286798869,61790,2010-09-14
+211,Mr. Aarav Panda,Hindi,B.Ed,3 years,15,"[""Class 4"", ""Class 7"", ""Class 3""]",9778396539,44987,2018-12-27
+212,Ms. Harsh Kar,English,M.A,19 years,15,"[""Class 2"", ""Class 2""]",9541036268,65086,2018-02-12
+213,Mr. Raghav Parida,Odia,B.Sc,5 years,15,"[""Class 2"", ""Class 6"", ""Class 3""]",9230976139,80907,2013-10-30
+214,Mrs. Aryan Nayak,Social Science,M.A,6 years,15,"[""Class 6"", ""Class 9"", ""Class 7""]",9976977861,47461,2002-09-15
+215,Mr. Raghav Behera,Hindi,B.Sc,5 years,15,"[""Class 6"", ""Class 3"", ""Class 5"", ""Class 3""]",9423361421,59211,2023-01-21
+216,Ms. Prisha Mohanty,Mathematics,B.A,24 years,15,"[""Class 4"", ""Class 1"", ""Class 5""]",9123633601,47323,2006-07-09
+217,Ms. Navya Samantaray,Social Science,B.A,9 years,15,"[""Class 2"", ""Class 4"", ""Class 7"", ""Class 9""]",9778511039,64363,2012-08-25
+218,Mr. Shanaya Barik,Odia,B.A,12 years,15,"[""Class 8"", ""Class 8""]",9895222483,79627,2012-11-25
+219,Ms. Raghav Pradhan,Hindi,M.A,10 years,15,"[""Class 9"", ""Class 3""]",9575024839,66022,2016-09-03
+220,Mrs. Aryan Lenka,Science,M.A,14 years,15,"[""Class 9"", ""Class 2"", ""Class 3""]",9846913729,28325,2007-04-04
+221,Ms. Aryan Pradhan,Science,B.Ed,16 years,15,"[""Class 6"", ""Class 4""]",9830797493,41347,2022-04-04
+222,Mr. Divyansh Kar,English,M.A,9 years,15,"[""Class 8"", ""Class 9"", ""Class 8""]",9158253656,33530,2009-02-10
+223,Mr. Navya Singh,Science,M.Sc,9 years,16,"[""Class 5"", ""Class 1"", ""Class 3"", ""Class 6""]",9993120055,49807,2006-08-24
+224,Mrs. Aanya Biswal,Social Science,B.Ed,12 years,16,"[""Class 1"", ""Class 2"", ""Class 4""]",9651861114,76190,2016-04-08
+225,Mrs. Vihaan Das,Computer Science,M.A,14 years,16,"[""Class 3"", ""Class 3""]",9223794193,56558,2002-12-19
+226,Mr. Khushi Senapati,Odia,M.Sc,12 years,16,"[""Class 4"", ""Class 9"", ""Class 1""]",9643467802,35957,2023-01-26
+227,Mrs. Navya Singh,Social Science,B.Sc,18 years,16,"[""Class 8"", ""Class 7"", ""Class 4""]",9206658668,69099,2021-08-02
+228,Mr. Yash Das,Mathematics,M.Sc,17 years,16,"[""Class 5"", ""Class 9"", ""Class 4"", ""Class 2""]",9892682770,76622,2006-03-30
+229,Mrs. Darsh Behera,Social Science,M.A,24 years,16,"[""Class 4"", ""Class 9"", ""Class 9"", ""Class 9""]",9300516409,28161,2024-01-05
+230,Ms. Darsh Dash,Hindi,B.A,23 years,16,"[""Class 9"", ""Class 7"", ""Class 7"", ""Class 8""]",9667214448,65010,2015-10-27
+231,Mrs. Aadhya Barik,Hindi,M.Sc,17 years,16,"[""Class 7"", ""Class 4"", ""Class 1""]",9977504244,42408,2022-12-14
+232,Ms. Arnav Maharana,Hindi,B.Sc,18 years,16,"[""Class 7"", ""Class 1"", ""Class 7""]",9463502818,46937,2001-02-08
+233,Ms. Arjun Maharana,Social Science,M.A,7 years,16,"[""Class 9"", ""Class 3""]",9793547401,65287,2014-05-21
+234,Mr. Aryan Mohanty,Social Science,B.A,12 years,16,"[""Class 2"", ""Class 3""]",9543722835,83598,2006-03-01
+235,Ms. Daksh Patra,Odia,B.Sc,12 years,16,"[""Class 7"", ""Class 5""]",9146387528,45348,2006-06-26
+236,Mr. Samarth Sahu,English,B.Sc,5 years,17,"[""Class 5"", ""Class 2""]",9905007984,77107,2011-07-19
+237,Mrs. Prisha Behera,Science,M.Sc,13 years,17,"[""Class 9"", ""Class 3""]",9822385301,37457,2001-02-27
+238,Mr. Yash Maharana,Odia,B.Sc,2 years,17,"[""Class 5"", ""Class 3"", ""Class 3""]",9740427565,68624,2022-11-23
+239,Ms. Saanvi Panda,Computer Science,B.Sc,3 years,17,"[""Class 8"", ""Class 1"", ""Class 3""]",9895555106,78123,2019-10-05
+240,Mr. Navya Tripathy,Mathematics,M.A,16 years,17,"[""Class 8"", ""Class 6""]",9710645278,36815,2018-08-30
+241,Ms. Dev Samantaray,Odia,B.Ed,21 years,17,"[""Class 7"", ""Class 8""]",9103992990,43942,2024-04-26
+242,Mr. Divyansh Tripathy,Social Science,B.Ed,3 years,17,"[""Class 2"", ""Class 4""]",9842242106,58259,2003-04-07
+243,Ms. Jai Barik,Social Science,B.Sc,13 years,17,"[""Class 6"", ""Class 8""]",9726659505,81562,2006-06-12
+244,Ms. Jai Naik,Computer Science,B.Sc,22 years,17,"[""Class 2"", ""Class 7""]",9801151170,36701,2000-10-21
+245,Mr. Anaya Singh,Science,B.A,24 years,17,"[""Class 6"", ""Class 3"", ""Class 1""]",9600443180,73629,2009-08-08
+246,Ms. Pihu Mishra,English,M.Sc,12 years,17,"[""Class 8"", ""Class 2"", ""Class 9""]",9378997434,49051,2006-09-15
+247,Ms. Aarav Jena,Mathematics,B.Ed,7 years,17,"[""Class 6"", ""Class 2""]",9495410186,26103,2015-08-11
+248,Mr. Vedant Lenka,Computer Science,B.Ed,22 years,17,"[""Class 4"", ""Class 9"", ""Class 1"", ""Class 8""]",9833785957,56233,2007-05-20
+249,Mr. Sai Samantaray,Science,B.Sc,9 years,17,"[""Class 5"", ""Class 3""]",9722858308,54995,2009-06-28
+250,Ms. Om Mishra,Hindi,B.A,3 years,17,"[""Class 10"", ""Class 10"", ""Class 9""]",9345868092,32007,2012-12-18
+251,Mr. Abhinav Dash,Odia,B.A,14 years,18,"[""Class 9"", ""Class 10"", ""Class 2"", ""Class 8""]",9108063648,35049,2007-06-22
+252,Mrs. Aadhya Jena,English,M.Sc,8 years,18,"[""Class 1"", ""Class 1"", ""Class 6""]",9255127298,59711,2008-05-03
+253,Ms. Aryan Naik,Science,M.Sc,14 years,18,"[""Class 1"", ""Class 7""]",9627030698,42186,2016-06-07
+254,Ms. Vedant Kumar,Science,M.Sc,20 years,18,"[""Class 4"", ""Class 3"", ""Class 7""]",9116129841,67236,2015-06-12
+255,Mr. Ishaan Nayak,Hindi,B.Sc,15 years,18,"[""Class 6"", ""Class 3""]",9977238018,54219,2001-01-12
+256,Mrs. Yash Patel,English,B.A,10 years,18,"[""Class 10"", ""Class 5"", ""Class 1""]",9256725140,77155,2001-11-05
+257,Mr. Aryan Kar,Hindi,B.A,11 years,18,"[""Class 4"", ""Class 1"", ""Class 10"", ""Class 6""]",9790505657,30387,2022-09-30
+258,Mr. Dev Nayak,Mathematics,B.Sc,1 years,18,"[""Class 9"", ""Class 4""]",9862407970,35330,2006-09-19
+259,Ms. Aanya Sharma,English,M.Sc,14 years,18,"[""Class 1"", ""Class 3"", ""Class 4"", ""Class 5""]",9153065644,54039,2004-11-12
+260,Ms. Harsh Tripathy,Hindi,M.A,18 years,18,"[""Class 2"", ""Class 8"", ""Class 2"", ""Class 7""]",9710807773,70964,2013-07-13
+261,Mr. Aarav Pradhan,Mathematics,B.A,14 years,18,"[""Class 10"", ""Class 7"", ""Class 1"", ""Class 2""]",9793606648,73356,2009-02-17
+262,Ms. Aarav Sahu,Social Science,B.A,8 years,18,"[""Class 10"", ""Class 3"", ""Class 3""]",9550695041,84905,2010-06-01
+263,Mr. Aditya Barik,Social Science,B.Ed,11 years,18,"[""Class 3"", ""Class 8""]",9487597466,42960,2016-08-04
+264,Mrs. Samarth Lenka,Science,M.A,21 years,18,"[""Class 1"", ""Class 4"", ""Class 6""]",9101829992,37183,2012-10-26
+265,Ms. Arnav Pradhan,Computer Science,M.A,5 years,18,"[""Class 9"", ""Class 4"", ""Class 2"", ""Class 1""]",9904213853,50622,2017-11-12
+266,Ms. Prisha Swain,Science,B.A,20 years,18,"[""Class 10"", ""Class 3"", ""Class 10""]",9316802269,81814,2023-10-07
+267,Ms. Shivansh Lenka,Science,B.Sc,13 years,18,"[""Class 7"", ""Class 3"", ""Class 10"", ""Class 2""]",9164099031,74605,2021-05-13
+268,Mrs. Harsh Sahu,Social Science,B.Sc,4 years,18,"[""Class 8"", ""Class 5""]",9397477911,75338,2008-07-25
+269,Mrs. Aarav Mohanty,Mathematics,B.A,23 years,19,"[""Class 5"", ""Class 9"", ""Class 8"", ""Class 2""]",9176886203,70262,2018-08-07
+270,Mr. Samarth Patel,Computer Science,B.A,5 years,19,"[""Class 4"", ""Class 9"", ""Class 4"", ""Class 10""]",9231437478,39185,2011-07-12
+271,Mrs. Arjun Barik,Odia,B.Ed,24 years,19,"[""Class 7"", ""Class 3"", ""Class 7"", ""Class 2""]",9397940431,84337,2013-03-06
+272,Mrs. Yash Kar,English,B.Ed,13 years,19,"[""Class 2"", ""Class 4"", ""Class 4"", ""Class 10""]",9716599351,41137,2019-02-19
+273,Mr. Inaya Patra,English,B.A,23 years,19,"[""Class 4"", ""Class 6""]",9562028630,38456,2018-04-19
+274,Ms. Rudra Nayak,English,M.Sc,8 years,19,"[""Class 4"", ""Class 6"", ""Class 8"", ""Class 3""]",9342732988,29577,2023-03-22
+275,Mr. Saanvi Mohanty,Mathematics,B.A,7 years,19,"[""Class 7"", ""Class 5""]",9811585811,80016,2014-09-16
+276,Mrs. Shivansh Kar,Science,B.Ed,17 years,19,"[""Class 10"", ""Class 2"", ""Class 8"", ""Class 3""]",9110850855,51008,2020-12-28
+277,Ms. Shanaya Sahoo,Social Science,B.A,16 years,19,"[""Class 2"", ""Class 8"", ""Class 8"", ""Class 4""]",9321806746,80191,2017-11-04
+278,Ms. Om Singh,Mathematics,M.Sc,20 years,19,"[""Class 9"", ""Class 8"", ""Class 7"", ""Class 7""]",9537021889,82615,2006-03-29
+279,Ms. Vivaan Kar,Social Science,B.A,20 years,19,"[""Class 3"", ""Class 5""]",9881311650,72548,2007-05-26
+280,Ms. Rudra Nayak,Odia,B.Ed,22 years,19,"[""Class 7"", ""Class 3"", ""Class 1""]",9307507833,42650,2014-09-19
+281,Mr. Aadhya Das,English,M.A,22 years,19,"[""Class 4"", ""Class 9""]",9626444209,69507,2022-09-13
+282,Mrs. Atharv Samantaray,Odia,B.Ed,13 years,19,"[""Class 2"", ""Class 9"", ""Class 4"", ""Class 10""]",9582528478,61866,2012-06-16
+283,Mr. Prisha Jena,Computer Science,B.Ed,8 years,19,"[""Class 9"", ""Class 2"", ""Class 4"", ""Class 9""]",9856920096,32048,2007-09-03
+284,Mr. Arjun Tripathy,English,M.Sc,21 years,20,"[""Class 4"", ""Class 7"", ""Class 6"", ""Class 7""]",9674561264,47184,2013-03-17
+285,Mr. Vihaan Sahu,Mathematics,M.Sc,9 years,20,"[""Class 3"", ""Class 8""]",9263944092,80700,2015-06-23
+286,Ms. Rudra Sahoo,Mathematics,B.Sc,13 years,20,"[""Class 4"", ""Class 5"", ""Class 4"", ""Class 4""]",9753183095,51730,2021-06-21
+287,Ms. Myra Pradhan,Hindi,M.A,8 years,20,"[""Class 1"", ""Class 6"", ""Class 9""]",9438338767,70498,2016-07-22
+288,Ms. Anaya Jena,Odia,B.A,1 years,20,"[""Class 3"", ""Class 6""]",9661568893,79814,2003-03-25
+289,Ms. Darsh Das,English,M.A,15 years,20,"[""Class 4"", ""Class 3"", ""Class 2"", ""Class 7""]",9184589633,72188,2016-03-07
+290,Ms. Sai Singh,English,B.Sc,16 years,20,"[""Class 9"", ""Class 4"", ""Class 10""]",9730570252,56412,2008-10-07
+291,Ms. Myra Maharana,Mathematics,B.Ed,23 years,20,"[""Class 7"", ""Class 8"", ""Class 7""]",9502836442,33866,2010-11-18
+292,Ms. Pihu Panda,Mathematics,B.A,19 years,20,"[""Class 3"", ""Class 1"", ""Class 5""]",9856004117,78596,2020-11-22
+293,Ms. Jai Barik,Hindi,B.Sc,13 years,20,"[""Class 10"", ""Class 8"", ""Class 7"", ""Class 2""]",9690513146,76512,2020-09-03
+294,Mr. Sai Singh,Science,B.Sc,17 years,20,"[""Class 4"", ""Class 3"", ""Class 6"", ""Class 5""]",9515897039,73390,2007-05-17
+295,Mrs. Arnav Samantaray,Odia,B.A,7 years,20,"[""Class 10"", ""Class 4"", ""Class 6"", ""Class 2""]",9900671462,47803,2009-12-02
+296,Mr. Prisha Tripathy,English,B.Sc,6 years,20,"[""Class 2"", ""Class 1"", ""Class 9""]",9428821083,34029,2009-03-10
+297,Ms. Atharv Barik,Mathematics,B.A,1 years,21,"[""Class 9"", ""Class 8"", ""Class 10""]",9940145763,34687,2001-07-06
+298,Ms. Krishna Dash,Social Science,B.A,14 years,21,"[""Class 6"", ""Class 6"", ""Class 7"", ""Class 1""]",9724130162,27419,2013-05-07
+299,Mr. Pihu Naik,Science,B.Ed,7 years,21,"[""Class 5"", ""Class 5""]",9118705487,79940,2002-02-06
+300,Mr. Pari Barik,Social Science,M.A,10 years,21,"[""Class 6"", ""Class 7"", ""Class 4"", ""Class 6""]",9858624164,68889,2004-03-13
+301,Mr. Yash Jena,Mathematics,B.Sc,7 years,21,"[""Class 5"", ""Class 5"", ""Class 4""]",9360631159,63691,2002-10-04
+302,Ms. Arnav Patra,Hindi,B.A,18 years,21,"[""Class 6"", ""Class 4""]",9283106550,42348,2024-02-18
+303,Mr. Kiaan Das,English,B.A,18 years,21,"[""Class 1"", ""Class 8"", ""Class 7"", ""Class 5""]",9456077201,32421,2006-11-03
+304,Mrs. Divyansh Patel,Science,B.A,18 years,21,"[""Class 4"", ""Class 6"", ""Class 8""]",9479491169,30461,2022-02-24
+305,Mrs. Arnav Parida,Social Science,B.Ed,13 years,21,"[""Class 6"", ""Class 2"", ""Class 9"", ""Class 10""]",9250836101,65133,2002-06-16
+306,Ms. Jai Rout,Odia,B.Ed,17 years,21,"[""Class 3"", ""Class 10"", ""Class 6""]",9742756850,84451,2002-05-31
+307,Mr. Aryan Patel,Social Science,M.Sc,25 years,21,"[""Class 10"", ""Class 5""]",9704286941,77872,2011-09-22
+308,Mr. Myra Nayak,Mathematics,B.Sc,11 years,21,"[""Class 3"", ""Class 4""]",9868869773,32384,2017-03-21
+309,Mrs. Samarth Dash,Hindi,B.Ed,3 years,21,"[""Class 7"", ""Class 4"", ""Class 8"", ""Class 4""]",9682772391,59802,2009-12-18
+310,Ms. Shaurya Mishra,Hindi,B.Sc,12 years,21,"[""Class 7"", ""Class 7"", ""Class 8"", ""Class 7""]",9916906312,82337,2021-07-02
+311,Ms. Anika Lenka,Mathematics,B.A,8 years,21,"[""Class 3"", ""Class 4"", ""Class 4""]",9561650068,26468,2016-03-31
+312,Mr. Atharv Maharana,Science,B.Sc,17 years,22,"[""Class 10"", ""Class 10"", ""Class 1""]",9643744924,62438,2022-12-01
+313,Mr. Shaurya Dash,Social Science,B.Sc,8 years,22,"[""Class 10"", ""Class 5"", ""Class 10"", ""Class 6""]",9970911665,71296,2023-10-18
+314,Mr. Yash Barik,Science,M.A,6 years,22,"[""Class 8"", ""Class 10""]",9105849949,47832,2016-07-03
+315,Mr. Harsh Samantaray,Mathematics,B.Ed,13 years,22,"[""Class 8"", ""Class 8"", ""Class 7"", ""Class 6""]",9765338015,42150,2008-09-24
+316,Mr. Sai Tripathy,Hindi,M.Sc,17 years,22,"[""Class 7"", ""Class 3"", ""Class 5"", ""Class 3""]",9871398694,54108,2019-12-26
+317,Mrs. Avni Samantaray,Odia,B.Ed,16 years,22,"[""Class 8"", ""Class 7"", ""Class 5"", ""Class 8""]",9594659315,41817,2014-07-24
+318,Mrs. Sai Mohanty,Mathematics,B.Sc,25 years,22,"[""Class 8"", ""Class 6""]",9648651571,44997,2015-10-05
+319,Mrs. Ishaan Behera,English,B.A,8 years,22,"[""Class 2"", ""Class 1"", ""Class 9""]",9489737846,76005,2022-03-04
+320,Mrs. Avni Samantaray,Hindi,M.A,8 years,22,"[""Class 3"", ""Class 5"", ""Class 6""]",9973858805,46312,2014-09-14
+321,Mr. Shanaya Panda,Science,B.A,6 years,22,"[""Class 9"", ""Class 6"", ""Class 9"", ""Class 5""]",9725215502,35602,2005-06-07
+322,Mr. Atharv Das,Computer Science,M.A,23 years,22,"[""Class 2"", ""Class 9""]",9216915233,83541,2016-09-08
+323,Mrs. Kiaan Lenka,Odia,B.A,20 years,22,"[""Class 2"", ""Class 9"", ""Class 7""]",9516412663,77746,2004-02-13
+324,Mrs. Arnav Naik,Mathematics,B.A,1 years,22,"[""Class 2"", ""Class 9"", ""Class 7"", ""Class 4""]",9826967350,31957,2008-11-15
+325,Ms. Shaurya Rout,Science,M.Sc,20 years,22,"[""Class 7"", ""Class 7"", ""Class 7""]",9755582095,82821,2019-01-11
+326,Ms. Jai Singh,Hindi,M.A,4 years,22,"[""Class 2"", ""Class 7""]",9958260371,80160,2009-10-10
+327,Mr. Shaurya Kumar,Science,B.Ed,5 years,22,"[""Class 5"", ""Class 10"", ""Class 8""]",9951843460,70215,2020-09-25
+328,Mr. Kiaan Mallick,Odia,M.Sc,15 years,22,"[""Class 2"", ""Class 9""]",9949373250,67043,2024-04-19
+329,Mrs. Shaurya Sahoo,Hindi,B.A,2 years,23,"[""Class 3"", ""Class 7"", ""Class 9""]",9750749532,37109,2012-02-26
+330,Mrs. Prisha Rout,Computer Science,B.A,24 years,23,"[""Class 4"", ""Class 5""]",9553006459,79092,2013-06-26
+331,Mr. Harsh Patra,English,B.Ed,1 years,23,"[""Class 8"", ""Class 9""]",9233446405,73460,2019-06-03
+332,Mrs. Kian Senapati,Mathematics,M.A,3 years,23,"[""Class 7"", ""Class 4""]",9257028520,57178,2013-10-07
+333,Mrs. Yash Rout,Odia,M.A,4 years,23,"[""Class 9"", ""Class 4"", ""Class 7""]",9931636728,31592,2003-09-10
+334,Mrs. Sai Patra,Odia,B.A,25 years,23,"[""Class 7"", ""Class 8"", ""Class 2""]",9661319588,77951,2024-07-29
+335,Mrs. Navya Rout,Computer Science,B.Sc,13 years,23,"[""Class 5"", ""Class 2"", ""Class 2"", ""Class 9""]",9172825476,29005,2002-07-31
+336,Ms. Saanvi Mohapatra,Social Science,B.A,5 years,23,"[""Class 7"", ""Class 4""]",9817015905,75557,2020-02-02
+337,Mr. Aanya Parida,Science,M.A,24 years,23,"[""Class 8"", ""Class 4"", ""Class 6""]",9717677463,59349,2016-01-19
+338,Mr. Darsh Samantaray,Hindi,B.Ed,13 years,23,"[""Class 2"", ""Class 2"", ""Class 1""]",9271015914,52106,2019-09-14
+339,Mr. Vedant Das,Science,B.Sc,18 years,23,"[""Class 5"", ""Class 5"", ""Class 9""]",9366120684,58366,2014-10-27
+340,Ms. Saanvi Naik,Science,M.Sc,3 years,23,"[""Class 1"", ""Class 4"", ""Class 8""]",9621425748,79232,2019-04-04
+341,Mr. Pari Sharma,Science,B.Ed,4 years,23,"[""Class 7"", ""Class 3"", ""Class 5""]",9180440768,72414,2020-07-03
+342,Ms. Pihu Sahoo,Computer Science,M.A,19 years,23,"[""Class 5"", ""Class 7"", ""Class 2"", ""Class 5""]",9274265280,68232,2013-06-13
+343,Mr. Harsh Mishra,Mathematics,B.Sc,24 years,23,"[""Class 3"", ""Class 2"", ""Class 7"", ""Class 4""]",9210566226,44588,2005-02-20
+344,Mr. Vedant Sahu,Mathematics,B.A,7 years,23,"[""Class 1"", ""Class 6"", ""Class 7""]",9176638476,31826,2024-05-02
+345,Mr. Shaurya Swain,English,B.A,2 years,23,"[""Class 1"", ""Class 8"", ""Class 2"", ""Class 3""]",9761196465,25244,2009-05-18
+346,Ms. Navya Senapati,English,B.A,6 years,23,"[""Class 3"", ""Class 10"", ""Class 3""]",9198666908,27996,2003-07-16
+347,Mr. Harsh Parida,Hindi,B.Sc,17 years,23,"[""Class 1"", ""Class 8"", ""Class 3""]",9368616222,32463,2012-06-15
+348,Mr. Atharv Lenka,Odia,M.Sc,21 years,23,"[""Class 8"", ""Class 3"", ""Class 8""]",9210554523,82611,2001-01-20
+349,Mr. Avni Kumar,Social Science,B.Ed,19 years,24,"[""Class 8"", ""Class 7""]",9812974222,48244,2020-10-24
+350,Mrs. Neil Sahu,Mathematics,M.Sc,24 years,24,"[""Class 5"", ""Class 3"", ""Class 7""]",9147579210,74200,2013-08-31
+351,Ms. Vivaan Dash,Science,B.Ed,16 years,24,"[""Class 10"", ""Class 1"", ""Class 8"", ""Class 6""]",9938516660,37952,2012-11-19
+352,Ms. Harsh Mohapatra,Social Science,B.Ed,11 years,24,"[""Class 6"", ""Class 2"", ""Class 2""]",9743797305,50238,2021-04-12
+353,Ms. Kabir Behera,Odia,B.A,23 years,24,"[""Class 6"", ""Class 6"", ""Class 6""]",9163817711,72940,2012-06-13
+354,Mrs. Om Patel,English,B.A,12 years,24,"[""Class 3"", ""Class 9"", ""Class 4""]",9884402731,78211,2020-04-23
+355,Mrs. Om Biswal,Mathematics,M.Sc,14 years,24,"[""Class 5"", ""Class 6"", ""Class 5""]",9606865750,39526,2003-09-30
+356,Ms. Kiaan Samantaray,Science,B.Ed,10 years,24,"[""Class 10"", ""Class 1"", ""Class 9""]",9146062865,57529,2008-08-03
+357,Ms. Saanvi Senapati,English,B.Sc,23 years,24,"[""Class 7"", ""Class 1""]",9538633440,38055,2001-02-23
+358,Mrs. Arjun Panda,Social Science,M.A,16 years,24,"[""Class 1"", ""Class 1"", ""Class 8"", ""Class 2""]",9579733087,44294,2012-02-20
+359,Ms. Darsh Singh,Social Science,B.Sc,2 years,24,"[""Class 4"", ""Class 9"", ""Class 7""]",9974014522,76329,2015-06-19
+360,Mr. Jai Patel,Odia,B.A,8 years,24,"[""Class 6"", ""Class 2"", ""Class 10"", ""Class 3""]",9892804003,28649,2015-07-15
+361,Ms. Aadhya Mishra,Social Science,B.A,10 years,24,"[""Class 8"", ""Class 4"", ""Class 10"", ""Class 5""]",9481069305,59952,2011-08-24
+362,Ms. Shivansh Senapati,Mathematics,B.Sc,7 years,24,"[""Class 5"", ""Class 1"", ""Class 4"", ""Class 7""]",9119663147,67282,2005-10-19
+363,Mrs. Raghav Dash,Computer Science,B.A,1 years,24,"[""Class 3"", ""Class 7"", ""Class 6""]",9540637749,84567,2006-12-29
+364,Mrs. Abhinav Behera,Social Science,B.A,16 years,24,"[""Class 9"", ""Class 2""]",9867176329,50474,2018-04-14
+365,Ms. Navya Singh,Mathematics,M.A,21 years,24,"[""Class 9"", ""Class 9""]",9256495585,84256,2010-07-15
+366,Mrs. Kabir Sahu,Odia,B.Sc,17 years,24,"[""Class 5"", ""Class 2""]",9128659658,38301,2010-01-20
+367,Mrs. Navya Mishra,Odia,M.A,22 years,24,"[""Class 6"", ""Class 6"", ""Class 4"", ""Class 4""]",9332663527,44702,2013-05-02
+368,Mr. Dev Kar,Science,M.A,22 years,25,"[""Class 7"", ""Class 2"", ""Class 5"", ""Class 10""]",9979310472,57480,2001-01-22
+369,Mr. Kavya Sahoo,Science,M.A,18 years,25,"[""Class 2"", ""Class 5"", ""Class 6"", ""Class 7""]",9974886108,41167,2001-05-08
+370,Mrs. Aanya Mallick,Odia,B.Ed,20 years,25,"[""Class 4"", ""Class 1"", ""Class 1""]",9279926780,70820,2021-09-08
+371,Mrs. Pari Sahoo,Hindi,M.Sc,9 years,25,"[""Class 1"", ""Class 2"", ""Class 8""]",9199400520,72676,2007-07-20
+372,Ms. Harsh Barik,Computer Science,M.A,6 years,25,"[""Class 4"", ""Class 1""]",9616882652,47995,2009-11-18
+373,Mr. Arjun Naik,Social Science,M.A,17 years,25,"[""Class 2"", ""Class 7"", ""Class 4""]",9706306333,25317,2015-11-28
+374,Mrs. Aditya Mallick,Mathematics,M.Sc,11 years,25,"[""Class 8"", ""Class 8"", ""Class 8""]",9835230405,35131,2003-07-08
+375,Ms. Ishaan Swain,Mathematics,M.Sc,18 years,25,"[""Class 2"", ""Class 9"", ""Class 2""]",9235989382,60103,2022-07-20
+376,Mr. Anika Kar,Science,B.Ed,16 years,25,"[""Class 5"", ""Class 10"", ""Class 7"", ""Class 8""]",9200135523,41744,2002-07-04
+377,Ms. Saanvi Dash,Odia,M.A,4 years,25,"[""Class 9"", ""Class 3"", ""Class 9"", ""Class 9""]",9416389202,81716,2004-01-30
+378,Ms. Pihu Maharana,Social Science,B.Ed,21 years,25,"[""Class 9"", ""Class 3""]",9262561058,71531,2023-10-05
+379,Mr. Shanaya Swain,Hindi,B.A,2 years,25,"[""Class 2"", ""Class 3"", ""Class 4"", ""Class 8""]",9184723860,39596,2009-05-10
+380,Ms. Diya Mohapatra,Computer Science,B.A,23 years,25,"[""Class 3"", ""Class 10"", ""Class 1""]",9569292272,72402,2002-11-27
+381,Ms. Myra Barik,Odia,M.A,13 years,25,"[""Class 10"", ""Class 10"", ""Class 8"", ""Class 1""]",9159370094,50697,2020-07-05
+382,Mrs. Rishabh Lenka,Hindi,M.A,3 years,25,"[""Class 3"", ""Class 5"", ""Class 5""]",9145326387,71157,2014-03-22
+383,Ms. Anika Parida,Science,B.Sc,12 years,25,"[""Class 10"", ""Class 6"", ""Class 3"", ""Class 4""]",9749565078,73193,2006-08-28
+384,Mr. Shivansh Swain,Hindi,M.Sc,8 years,25,"[""Class 8"", ""Class 3""]",9610203337,81003,2014-01-29
+385,Ms. Ayaan Maharana,Mathematics,B.Ed,4 years,26,"[""Class 2"", ""Class 1"", ""Class 8"", ""Class 5""]",9688218646,33718,2020-04-22
+386,Ms. Anaya Senapati,Science,B.A,8 years,26,"[""Class 9"", ""Class 9"", ""Class 2"", ""Class 6""]",9645743642,36650,2009-07-31
+387,Mr. Rudra Das,Science,B.Ed,15 years,26,"[""Class 4"", ""Class 10""]",9858303290,35612,2020-05-21
+388,Ms. Jai Singh,Social Science,M.Sc,25 years,26,"[""Class 10"", ""Class 9""]",9895940843,44260,2005-05-21
+389,Ms. Aanya Dash,Computer Science,B.A,4 years,26,"[""Class 6"", ""Class 8""]",9268692938,40128,2020-01-16
+390,Mrs. Atharv Sahu,Computer Science,M.A,22 years,26,"[""Class 7"", ""Class 8""]",9667001865,35064,2019-08-02
+391,Mr. Myra Nayak,Odia,M.Sc,9 years,26,"[""Class 4"", ""Class 10"", ""Class 10"", ""Class 4""]",9359239105,27916,2012-07-30
+392,Mrs. Anaya Dash,English,B.Ed,20 years,26,"[""Class 5"", ""Class 4"", ""Class 4"", ""Class 7""]",9920534114,82517,2013-05-18
+393,Mrs. Om Patra,Social Science,M.Sc,8 years,26,"[""Class 2"", ""Class 10"", ""Class 4"", ""Class 10""]",9732978763,27599,2003-08-16
+394,Mrs. Raghav Swain,Social Science,B.Sc,9 years,26,"[""Class 1"", ""Class 8"", ""Class 4"", ""Class 5""]",9901020806,54816,2022-01-15
+395,Mrs. Shanaya Samantaray,Computer Science,M.A,18 years,26,"[""Class 1"", ""Class 7""]",9834852017,31585,2012-03-17
+396,Ms. Shaurya Sahu,Mathematics,B.A,9 years,26,"[""Class 5"", ""Class 6""]",9831571918,74687,2001-03-12
+397,Mrs. Prisha Lenka,Hindi,M.Sc,8 years,27,"[""Class 3"", ""Class 6"", ""Class 4"", ""Class 7""]",9663630567,52418,2012-12-27
+398,Mrs. Sai Naik,Science,M.Sc,4 years,27,"[""Class 9"", ""Class 6""]",9825553858,42425,2012-04-19
+399,Mr. Raghav Sahu,Odia,B.Sc,11 years,27,"[""Class 1"", ""Class 2"", ""Class 8""]",9461014006,30174,2008-11-28
+400,Ms. Aadhya Biswal,Odia,B.Ed,3 years,27,"[""Class 6"", ""Class 10"", ""Class 2""]",9969882326,62633,2011-12-22
+401,Ms. Pihu Jena,Odia,B.Sc,19 years,27,"[""Class 4"", ""Class 10"", ""Class 8"", ""Class 5""]",9383847818,65494,2008-10-27
+402,Mrs. Jai Pradhan,Odia,B.Ed,9 years,27,"[""Class 10"", ""Class 9"", ""Class 4""]",9608521562,38148,2007-07-17
+403,Mr. Harsh Rout,English,B.Sc,4 years,27,"[""Class 4"", ""Class 10"", ""Class 2"", ""Class 5""]",9714958548,44961,2011-05-18
+404,Mr. Myra Pradhan,English,B.Ed,1 years,27,"[""Class 6"", ""Class 5""]",9525731932,75057,2019-01-10
+405,Mrs. Aryan Sahu,Computer Science,M.Sc,20 years,27,"[""Class 2"", ""Class 2"", ""Class 5"", ""Class 9""]",9838129011,58481,2009-06-29
+406,Mr. Atharv Nayak,Hindi,M.Sc,6 years,27,"[""Class 7"", ""Class 10"", ""Class 8"", ""Class 10""]",9573921922,39744,2007-03-02
+407,Mrs. Darsh Dash,English,B.Ed,7 years,27,"[""Class 4"", ""Class 3"", ""Class 4"", ""Class 6""]",9650827262,52192,2009-04-23
+408,Ms. Shanaya Panda,Hindi,B.Ed,13 years,27,"[""Class 5"", ""Class 6"", ""Class 3""]",9707185964,54082,2002-08-18
+409,Ms. Atharv Singh,Computer Science,B.A,7 years,27,"[""Class 9"", ""Class 7""]",9717576904,42876,2002-05-13
+410,Mrs. Daksh Patel,English,B.A,6 years,27,"[""Class 10"", ""Class 7"", ""Class 6""]",9498925900,27473,2014-12-27
+411,Ms. Yash Jena,Odia,M.Sc,25 years,27,"[""Class 2"", ""Class 6"", ""Class 6""]",9887533745,60163,2001-01-21
+412,Mr. Vivaan Samantaray,Mathematics,M.A,24 years,27,"[""Class 6"", ""Class 1"", ""Class 7""]",9739066734,81139,2013-01-22
+413,Mr. Atharv Patel,Hindi,M.Sc,20 years,27,"[""Class 2"", ""Class 8"", ""Class 9""]",9253387934,77650,2022-07-20
+414,Mr. Vedant Mallick,Science,B.Ed,9 years,27,"[""Class 4"", ""Class 6"", ""Class 7"", ""Class 9""]",9533495703,30737,2015-08-02
+415,Mrs. Daksh Mohapatra,Science,B.Sc,18 years,27,"[""Class 2"", ""Class 2""]",9144827825,69002,2024-09-12
+416,Mr. Aadhya Biswal,Computer Science,B.Ed,6 years,28,"[""Class 4"", ""Class 3""]",9767656992,45665,2007-09-04
+417,Mrs. Aadhya Barik,Social Science,B.Ed,10 years,28,"[""Class 4"", ""Class 6"", ""Class 2""]",9969796879,80394,2020-12-15
+418,Mrs. Inaya Singh,English,B.Sc,2 years,28,"[""Class 3"", ""Class 5"", ""Class 1""]",9740778076,75255,2015-10-20
+419,Mrs. Kabir Sharma,Social Science,M.Sc,10 years,28,"[""Class 8"", ""Class 4"", ""Class 2"", ""Class 8""]",9431998083,39133,2023-09-22
+420,Ms. Abhinav Kumar,Hindi,B.Ed,5 years,28,"[""Class 9"", ""Class 2"", ""Class 9"", ""Class 10""]",9541346899,30009,2012-06-12
+421,Mrs. Vihaan Nayak,Mathematics,M.A,11 years,28,"[""Class 5"", ""Class 7""]",9637827910,28875,2023-05-03
+422,Ms. Reyansh Jena,Computer Science,M.Sc,24 years,28,"[""Class 10"", ""Class 9"", ""Class 4""]",9499400960,67357,2019-08-09
+423,Ms. Anaya Kumar,Mathematics,M.Sc,7 years,28,"[""Class 9"", ""Class 5"", ""Class 10""]",9167406607,63685,2001-05-27
+424,Mr. Saanvi Mallick,Science,M.A,24 years,28,"[""Class 10"", ""Class 10""]",9689308826,39148,2022-01-22
+425,Mrs. Arnav Sharma,Mathematics,B.A,4 years,28,"[""Class 5"", ""Class 7"", ""Class 5""]",9362129625,66970,2015-12-04
+426,Mr. Kavya Nayak,Social Science,B.Ed,3 years,28,"[""Class 7"", ""Class 9""]",9423310329,42764,2001-01-01
+427,Ms. Arjun Rout,Hindi,M.Sc,25 years,28,"[""Class 8"", ""Class 5"", ""Class 4"", ""Class 7""]",9931372185,69786,2019-09-14
+428,Mrs. Saanvi Swain,Social Science,M.A,12 years,28,"[""Class 8"", ""Class 10"", ""Class 8""]",9543011507,48164,2010-01-04
+429,Ms. Navya Patra,Hindi,B.Sc,16 years,29,"[""Class 5"", ""Class 6"", ""Class 9"", ""Class 5""]",9243310684,57387,2002-10-02
+430,Mr. Kavya Swain,Computer Science,M.A,25 years,29,"[""Class 5"", ""Class 7""]",9379653526,68468,2023-08-15
+431,Ms. Avni Biswal,Social Science,M.Sc,11 years,29,"[""Class 2"", ""Class 10""]",9264393259,71722,2022-06-29
+432,Mrs. Aditya Pradhan,Science,M.A,5 years,29,"[""Class 10"", ""Class 4"", ""Class 3""]",9456391022,59812,2022-08-06
+433,Mr. Yash Biswal,Science,M.Sc,10 years,29,"[""Class 8"", ""Class 10""]",9645045448,74974,2017-11-15
+434,Mrs. Aarav Swain,English,B.Ed,4 years,29,"[""Class 4"", ""Class 10""]",9855780006,36088,2001-02-03
+435,Ms. Kabir Behera,Science,M.A,10 years,29,"[""Class 9"", ""Class 1"", ""Class 5"", ""Class 3""]",9714690733,54411,2015-04-26
+436,Ms. Shaurya Pradhan,Odia,B.Sc,23 years,29,"[""Class 8"", ""Class 8"", ""Class 2""]",9116265862,34593,2001-01-13
+437,Ms. Daksh Mohapatra,Mathematics,B.Sc,16 years,29,"[""Class 5"", ""Class 4"", ""Class 9""]",9185664548,36426,2017-03-12
+438,Mrs. Riya Swain,Mathematics,B.Sc,23 years,29,"[""Class 2"", ""Class 8"", ""Class 8"", ""Class 7""]",9194297096,68802,2007-08-09
+439,Mr. Kiaan Parida,Computer Science,B.Sc,18 years,29,"[""Class 2"", ""Class 7"", ""Class 8"", ""Class 9""]",9721173556,83341,2008-08-21
+440,Ms. Saanvi Patra,English,B.Sc,2 years,29,"[""Class 5"", ""Class 10""]",9657570715,79887,2001-01-25
+441,Mr. Riya Kumar,Science,B.A,13 years,29,"[""Class 1"", ""Class 3"", ""Class 1""]",9418049636,59185,2018-08-19
+442,Mr. Inaya Samantaray,Social Science,B.Ed,3 years,29,"[""Class 7"", ""Class 6"", ""Class 1""]",9905184465,52916,2001-04-09
+443,Mrs. Dev Sharma,Science,M.Sc,4 years,30,"[""Class 7"", ""Class 10"", ""Class 9"", ""Class 10""]",9232950640,42601,2001-06-05
+444,Ms. Atharv Mohapatra,Social Science,M.A,11 years,30,"[""Class 7"", ""Class 8"", ""Class 8"", ""Class 5""]",9355075512,30614,2008-07-11
+445,Ms. Arjun Patel,English,B.A,16 years,30,"[""Class 9"", ""Class 3""]",9247504481,45561,2002-01-21
+446,Ms. Kiaan Biswal,Social Science,M.A,5 years,30,"[""Class 7"", ""Class 2"", ""Class 8"", ""Class 9""]",9425618211,64291,2002-01-30
+447,Mr. Prisha Nayak,Odia,M.Sc,14 years,30,"[""Class 8"", ""Class 2"", ""Class 5"", ""Class 4""]",9523304726,84118,2019-05-17
+448,Mr. Kian Patra,Odia,B.Sc,1 years,30,"[""Class 8"", ""Class 4"", ""Class 2""]",9909353807,30005,2010-08-14
+449,Ms. Rudra Behera,Computer Science,B.Ed,6 years,30,"[""Class 9"", ""Class 1"", ""Class 8""]",9934272051,36571,2023-03-09
+450,Mr. Samarth Pradhan,Hindi,M.A,12 years,30,"[""Class 7"", ""Class 1"", ""Class 5""]",9926399277,79835,2019-05-31
+451,Mrs. Arjun Tripathy,Science,B.Sc,12 years,30,"[""Class 8"", ""Class 4"", ""Class 4"", ""Class 3""]",9910744122,64400,2014-05-29
+452,Ms. Kiaan Mallick,Hindi,B.Ed,25 years,30,"[""Class 6"", ""Class 2"", ""Class 4"", ""Class 4""]",9240282817,83767,2006-02-28
+453,Mr. Kavya Naik,Odia,B.A,11 years,30,"[""Class 2"", ""Class 2"", ""Class 10""]",9877299089,32641,2014-05-09
+454,Ms. Inaya Biswal,Computer Science,B.Ed,23 years,30,"[""Class 1"", ""Class 7""]",9385511348,40008,2017-05-11
+455,Ms. Aarav Mallick,Hindi,M.Sc,22 years,30,"[""Class 2"", ""Class 9"", ""Class 4""]",9173064199,67675,2010-01-18
+456,Mr. Krishna Biswal,Odia,B.Sc,25 years,30,"[""Class 9"", ""Class 10"", ""Class 9"", ""Class 4""]",9627269183,77846,2013-10-22
+457,Mrs. Pari Pradhan,Science,M.Sc,15 years,30,"[""Class 4"", ""Class 2"", ""Class 7"", ""Class 10""]",9636219428,84262,2002-04-05
+458,Mr. Atharv Singh,Science,B.A,22 years,30,"[""Class 1"", ""Class 1"", ""Class 9"", ""Class 3""]",9295338475,33961,2016-08-29
+459,Mrs. Samarth Singh,Hindi,M.A,16 years,30,"[""Class 9"", ""Class 4"", ""Class 2""]",9429241390,76337,2011-01-05
+460,Ms. Avni Pradhan,Science,M.Sc,18 years,30,"[""Class 3"", ""Class 6"", ""Class 10""]",9643479709,83144,2013-09-19
+461,Mr. Kiaan Lenka,Computer Science,M.A,5 years,30,"[""Class 5"", ""Class 2"", ""Class 5""]",9568826885,51940,2004-11-24
+462,Ms. Divyansh Mohanty,Computer Science,M.Sc,22 years,31,"[""Class 3"", ""Class 4"", ""Class 4""]",9512772918,51527,2022-03-20
+463,Mr. Rudra Jena,Odia,B.A,6 years,31,"[""Class 8"", ""Class 8"", ""Class 6"", ""Class 8""]",9561402471,46704,2018-04-27
+464,Ms. Aryan Mallick,Computer Science,M.Sc,25 years,31,"[""Class 8"", ""Class 9""]",9268279482,38887,2000-09-23
+465,Mrs. Saanvi Singh,Mathematics,B.A,21 years,31,"[""Class 1"", ""Class 5"", ""Class 2"", ""Class 3""]",9224171560,50896,2011-07-31
+466,Mr. Prisha Sahu,Social Science,B.A,13 years,31,"[""Class 5"", ""Class 9"", ""Class 7"", ""Class 1""]",9463856503,67505,2010-09-17
+467,Mrs. Anika Mohanty,Odia,B.Ed,25 years,31,"[""Class 2"", ""Class 2""]",9118862320,54299,2007-01-10
+468,Mr. Kiaan Singh,Science,B.A,19 years,31,"[""Class 6"", ""Class 1"", ""Class 7""]",9261829035,69074,2014-11-04
+469,Mr. Vihaan Dash,Science,B.A,10 years,31,"[""Class 7"", ""Class 6"", ""Class 7""]",9153935616,82394,2001-07-25
+470,Mr. Darsh Mishra,Odia,B.Ed,18 years,31,"[""Class 1"", ""Class 7""]",9900855724,34633,2017-03-01
+471,Mrs. Aanya Kumar,Mathematics,M.A,22 years,31,"[""Class 9"", ""Class 10"", ""Class 1""]",9132036657,79375,2011-03-03
+472,Ms. Jai Naik,Mathematics,B.A,10 years,31,"[""Class 6"", ""Class 3"", ""Class 5"", ""Class 2""]",9612804931,36671,2010-03-25
+473,Mrs. Vedant Barik,Hindi,M.A,19 years,31,"[""Class 3"", ""Class 1"", ""Class 8"", ""Class 4""]",9616724237,35958,2023-03-08
+474,Ms. Myra Swain,English,B.Ed,17 years,31,"[""Class 3"", ""Class 1""]",9982876727,33095,2011-07-14
+475,Mrs. Kavya Patra,English,B.Sc,18 years,32,"[""Class 7"", ""Class 7"", ""Class 3"", ""Class 2""]",9205547787,65492,2011-04-20
+476,Mrs. Kavya Nayak,Mathematics,B.Sc,23 years,32,"[""Class 3"", ""Class 4"", ""Class 1""]",9482905151,63278,2006-03-04
+477,Mrs. Prisha Singh,Science,B.A,17 years,32,"[""Class 5"", ""Class 8""]",9690685398,62395,2022-06-11
+478,Mr. Avni Sahu,Science,M.A,24 years,32,"[""Class 9"", ""Class 9""]",9239847718,33695,2022-07-16
+479,Mr. Diya Patra,Mathematics,M.A,19 years,32,"[""Class 3"", ""Class 4""]",9173879454,40299,2012-08-17
+480,Mr. Diya Mishra,Odia,B.Sc,10 years,32,"[""Class 1"", ""Class 10"", ""Class 10""]",9493030248,39994,2023-08-19
+481,Mr. Aryan Panda,Computer Science,B.Sc,2 years,32,"[""Class 5"", ""Class 3""]",9168843170,61688,2008-08-08
+482,Ms. Kabir Behera,English,B.A,9 years,32,"[""Class 2"", ""Class 2"", ""Class 9"", ""Class 2""]",9595439542,70753,2002-08-22
+483,Mr. Arnav Das,Mathematics,B.Sc,1 years,32,"[""Class 6"", ""Class 8"", ""Class 1"", ""Class 9""]",9425581099,34093,2011-03-24
+484,Mr. Shaurya Senapati,Hindi,B.A,23 years,32,"[""Class 1"", ""Class 9"", ""Class 5""]",9421751120,35175,2006-08-16
+485,Mr. Dev Mohapatra,English,B.Sc,2 years,32,"[""Class 10"", ""Class 10"", ""Class 10""]",9318842555,30679,2019-11-05
+486,Mr. Dev Kumar,Social Science,B.A,23 years,32,"[""Class 5"", ""Class 9"", ""Class 7""]",9779471514,35994,2023-11-11
+487,Mr. Riya Parida,Science,B.A,6 years,32,"[""Class 8"", ""Class 8"", ""Class 10""]",9335370190,53586,2011-11-06
+488,Mr. Kabir Tripathy,Computer Science,M.A,18 years,32,"[""Class 6"", ""Class 6"", ""Class 7"", ""Class 5""]",9549533094,60264,2005-12-08
+489,Mr. Rudra Nayak,Computer Science,M.Sc,24 years,32,"[""Class 2"", ""Class 5"", ""Class 6""]",9618516427,27719,2023-06-07
+490,Mr. Prisha Tripathy,Hindi,B.Ed,20 years,32,"[""Class 10"", ""Class 3"", ""Class 7""]",9713856599,54304,2018-09-23
+491,Mr. Dev Mallick,English,M.Sc,23 years,32,"[""Class 7"", ""Class 3""]",9765079193,46685,2009-03-21
+492,Ms. Aadhya Senapati,Social Science,B.Ed,14 years,32,"[""Class 2"", ""Class 10"", ""Class 4""]",9781005222,83993,2022-08-18
+493,Ms. Daksh Mohanty,Computer Science,B.Ed,9 years,32,"[""Class 10"", ""Class 8"", ""Class 2"", ""Class 9""]",9500046618,78405,2002-08-03
+494,Mrs. Shaurya Sharma,Mathematics,B.Sc,16 years,33,"[""Class 3"", ""Class 8""]",9112755183,82712,2003-12-21
+495,Mrs. Vivaan Barik,Social Science,B.Sc,3 years,33,"[""Class 4"", ""Class 9""]",9867068409,83631,2013-12-04
+496,Mrs. Prisha Rout,Social Science,B.Ed,11 years,33,"[""Class 3"", ""Class 1"", ""Class 5""]",9888785668,76816,2006-12-22
+497,Mrs. Pari Kar,Computer Science,M.Sc,4 years,33,"[""Class 6"", ""Class 6"", ""Class 1""]",9403765975,77300,2008-03-12
+498,Mr. Divyansh Kumar,Computer Science,B.Ed,13 years,33,"[""Class 3"", ""Class 1"", ""Class 1""]",9477821982,79966,2012-01-28
+499,Ms. Raghav Biswal,Odia,B.Sc,6 years,33,"[""Class 2"", ""Class 5""]",9837592839,63645,2017-07-15
+500,Mr. Navya Singh,Computer Science,M.A,14 years,33,"[""Class 2"", ""Class 10"", ""Class 6""]",9255240223,50471,2005-02-21
+501,Ms. Atharv Nayak,Science,B.Sc,5 years,33,"[""Class 2"", ""Class 10""]",9383959998,72676,2012-03-11
+502,Mrs. Rudra Tripathy,Science,B.Ed,24 years,33,"[""Class 4"", ""Class 10""]",9143856940,30133,2023-09-08
+503,Mrs. Sai Tripathy,English,B.A,12 years,33,"[""Class 1"", ""Class 1""]",9615365295,56601,2011-03-16
+504,Mrs. Samarth Sahu,Social Science,B.Sc,6 years,33,"[""Class 6"", ""Class 6""]",9526282941,34405,2007-11-19
+505,Mr. Avni Swain,Computer Science,B.A,16 years,33,"[""Class 9"", ""Class 10""]",9623324242,44610,2003-05-13
+506,Mr. Reyansh Kar,Odia,M.Sc,20 years,33,"[""Class 4"", ""Class 9"", ""Class 6"", ""Class 2""]",9519776539,45036,2021-12-15
+507,Mrs. Dev Mallick,Mathematics,B.Sc,13 years,33,"[""Class 5"", ""Class 6"", ""Class 4"", ""Class 4""]",9553807725,72156,2022-02-21
+508,Ms. Vivaan Tripathy,Social Science,M.A,12 years,33,"[""Class 10"", ""Class 2""]",9479390596,68002,2007-08-09
+509,Mr. Krishna Rout,Computer Science,M.Sc,10 years,33,"[""Class 5"", ""Class 7"", ""Class 5""]",9996647331,71298,2024-01-17
+510,Ms. Navya Kumar,Hindi,B.Ed,1 years,34,"[""Class 7"", ""Class 8""]",9692424068,66335,2002-12-17
+511,Ms. Shanaya Lenka,Science,B.Ed,20 years,34,"[""Class 3"", ""Class 3""]",9471397348,64046,2019-12-20
+512,Mrs. Khushi Behera,English,B.Ed,14 years,34,"[""Class 9"", ""Class 9""]",9337990214,62649,2017-06-04
+513,Mrs. Vihaan Pradhan,Mathematics,B.Ed,25 years,34,"[""Class 1"", ""Class 4"", ""Class 5"", ""Class 10""]",9692266676,79314,2012-11-17
+514,Mr. Pihu Pradhan,Mathematics,B.A,6 years,34,"[""Class 6"", ""Class 3"", ""Class 4""]",9235844736,30957,2008-04-19
+515,Mrs. Navya Senapati,Social Science,B.Sc,3 years,34,"[""Class 3"", ""Class 1"", ""Class 4""]",9117975790,44463,2017-01-20
+516,Mrs. Inaya Mallick,Computer Science,B.Sc,16 years,34,"[""Class 5"", ""Class 9"", ""Class 1"", ""Class 4""]",9565852387,83329,2009-12-04
+517,Mrs. Rudra Pradhan,Science,B.A,23 years,34,"[""Class 7"", ""Class 7"", ""Class 5""]",9541290262,50507,2001-10-23
+518,Mrs. Ishaan Tripathy,Odia,B.Ed,18 years,34,"[""Class 9"", ""Class 3"", ""Class 7""]",9846749129,72511,2022-01-09
+519,Mrs. Shanaya Sahoo,English,B.A,1 years,34,"[""Class 9"", ""Class 8"", ""Class 6"", ""Class 2""]",9220974772,30170,2005-01-23
+520,Mr. Kabir Tripathy,Mathematics,M.A,21 years,34,"[""Class 10"", ""Class 5"", ""Class 9"", ""Class 6""]",9771083117,45596,2010-09-10
+521,Mrs. Jai Swain,Mathematics,B.A,4 years,34,"[""Class 10"", ""Class 4"", ""Class 1""]",9789349232,64961,2017-09-05
+522,Mrs. Avni Panda,Hindi,B.A,11 years,34,"[""Class 6"", ""Class 10""]",9405606194,79029,2017-05-14
+523,Mr. Avni Das,Mathematics,B.Ed,9 years,34,"[""Class 10"", ""Class 6"", ""Class 1""]",9822523971,26391,2016-12-29
+524,Mrs. Harsh Patel,English,M.A,2 years,35,"[""Class 7"", ""Class 7""]",9671096544,61914,2021-09-12
+525,Mrs. Vedant Das,Odia,B.Ed,17 years,35,"[""Class 2"", ""Class 5"", ""Class 10""]",9754231305,42384,2001-01-14
+526,Mr. Divyansh Behera,Hindi,M.Sc,8 years,35,"[""Class 7"", ""Class 4"", ""Class 8"", ""Class 4""]",9126371364,40463,2010-12-31
+527,Mrs. Yash Maharana,Mathematics,M.Sc,22 years,35,"[""Class 5"", ""Class 4""]",9441404672,71129,2019-01-16
+528,Mr. Kabir Biswal,Odia,B.Ed,18 years,35,"[""Class 2"", ""Class 9"", ""Class 4""]",9804150030,53808,2014-12-28
+529,Ms. Inaya Sahu,Computer Science,B.Ed,23 years,35,"[""Class 7"", ""Class 1"", ""Class 1""]",9793425080,35306,2014-11-29
+530,Mrs. Aadhya Mallick,Mathematics,B.A,14 years,35,"[""Class 5"", ""Class 6"", ""Class 2"", ""Class 4""]",9766536048,43758,2011-02-15
+531,Mrs. Vihaan Panda,Mathematics,M.Sc,23 years,35,"[""Class 2"", ""Class 10""]",9119868156,78117,2015-10-06
+532,Ms. Arjun Patel,Odia,B.Ed,4 years,35,"[""Class 7"", ""Class 3"", ""Class 9""]",9500562400,47939,2009-09-28
+533,Mr. Kavya Maharana,Computer Science,B.A,23 years,35,"[""Class 6"", ""Class 2"", ""Class 6""]",9135478782,56187,2020-04-06
+534,Mrs. Riya Sahu,English,B.A,10 years,35,"[""Class 10"", ""Class 2"", ""Class 2"", ""Class 1""]",9493043580,55465,2014-05-02
+535,Mrs. Myra Sahu,Hindi,M.Sc,23 years,35,"[""Class 2"", ""Class 8"", ""Class 4"", ""Class 1""]",9497707065,46429,2009-03-11
+536,Mr. Arjun Patra,Science,M.A,3 years,35,"[""Class 2"", ""Class 10"", ""Class 10""]",9279301026,59675,2007-07-30
+537,Ms. Arjun Rout,Hindi,B.Ed,24 years,35,"[""Class 4"", ""Class 1""]",9245930395,31751,2004-06-20
+538,Mr. Riya Panda,Science,B.Ed,1 years,35,"[""Class 7"", ""Class 1""]",9982714211,35794,2024-04-21
+539,Ms. Aarav Kar,English,M.A,4 years,35,"[""Class 5"", ""Class 6""]",9287002089,84611,2011-06-09
+540,Mr. Divyansh Swain,Hindi,B.A,1 years,35,"[""Class 1"", ""Class 9"", ""Class 3"", ""Class 3""]",9927719352,41979,2007-04-04
+541,Mrs. Aryan Naik,Science,M.A,21 years,35,"[""Class 3"", ""Class 4""]",9764147582,66040,2021-09-11
+542,Mrs. Vihaan Patra,Odia,B.Sc,11 years,35,"[""Class 8"", ""Class 5"", ""Class 4""]",9969510892,30531,2015-01-05
+543,Mrs. Shanaya Mishra,Hindi,B.Ed,16 years,35,"[""Class 8"", ""Class 9"", ""Class 1""]",9389706191,80674,2020-07-18
+544,Ms. Aarav Pradhan,English,B.Ed,4 years,36,"[""Class 2"", ""Class 9"", ""Class 8"", ""Class 3""]",9538487340,50866,2017-07-12
+545,Ms. Krishna Singh,Computer Science,B.Ed,3 years,36,"[""Class 6"", ""Class 6""]",9298855855,41855,2016-11-25
+546,Mr. Harsh Singh,English,B.Ed,14 years,36,"[""Class 4"", ""Class 6"", ""Class 8"", ""Class 3""]",9892947453,34615,2018-08-18
+547,Mr. Shaurya Senapati,Social Science,B.Sc,23 years,36,"[""Class 2"", ""Class 5"", ""Class 9"", ""Class 1""]",9875412805,71445,2002-08-03
+548,Ms. Pihu Tripathy,Science,B.Ed,19 years,36,"[""Class 4"", ""Class 2"", ""Class 10""]",9132831559,57490,2017-09-10
+549,Ms. Navya Pradhan,Hindi,M.Sc,5 years,36,"[""Class 2"", ""Class 6"", ""Class 2""]",9318256021,64662,2002-02-08
+550,Ms. Shaurya Maharana,Mathematics,B.Ed,21 years,36,"[""Class 6"", ""Class 1""]",9318425056,39520,2024-05-31
+551,Mrs. Aarav Sahu,Computer Science,M.Sc,21 years,36,"[""Class 9"", ""Class 4""]",9563748394,60144,2021-06-08
+552,Mrs. Aryan Lenka,Odia,M.Sc,20 years,36,"[""Class 3"", ""Class 3"", ""Class 3"", ""Class 8""]",9286239180,69803,2008-04-27
+553,Mr. Divyansh Das,Mathematics,M.A,5 years,36,"[""Class 4"", ""Class 1"", ""Class 8"", ""Class 8""]",9390741865,83367,2022-11-25
+554,Mrs. Shaurya Nayak,Science,B.Sc,4 years,36,"[""Class 10"", ""Class 7"", ""Class 3"", ""Class 2""]",9435226550,28330,2003-10-21
+555,Ms. Pari Jena,Science,M.A,5 years,36,"[""Class 4"", ""Class 6"", ""Class 2""]",9803821449,32302,2023-06-20
+556,Mrs. Om Panda,Social Science,B.A,3 years,36,"[""Class 2"", ""Class 7""]",9870838617,35576,2004-11-17
+557,Mrs. Khushi Tripathy,English,M.A,10 years,36,"[""Class 5"", ""Class 7"", ""Class 4""]",9295331374,43119,2002-11-09
+558,Ms. Jai Swain,Odia,B.Sc,25 years,36,"[""Class 4"", ""Class 6"", ""Class 5""]",9549532479,46627,2006-12-25
+559,Mr. Aryan Maharana,Science,B.A,5 years,36,"[""Class 7"", ""Class 3""]",9250668130,35659,2015-09-28
+560,Mrs. Vivaan Swain,Science,B.A,23 years,36,"[""Class 5"", ""Class 7""]",9580732000,30555,2003-03-10
+561,Ms. Kabir Dash,Social Science,M.A,21 years,37,"[""Class 3"", ""Class 9"", ""Class 10""]",9245946033,75936,2012-10-28
+562,Ms. Saanvi Mallick,Computer Science,B.Sc,6 years,37,"[""Class 5"", ""Class 8"", ""Class 3"", ""Class 4""]",9573869456,81118,2012-09-07
+563,Ms. Aditya Sahu,Mathematics,B.Ed,9 years,37,"[""Class 4"", ""Class 10"", ""Class 10""]",9711984815,54260,2014-09-07
+564,Ms. Krishna Tripathy,Science,B.A,17 years,37,"[""Class 3"", ""Class 9"", ""Class 9""]",9413376318,48562,2002-09-18
+565,Mr. Aryan Nayak,Hindi,B.A,14 years,37,"[""Class 4"", ""Class 5"", ""Class 1""]",9504902317,41607,2006-05-22
+566,Mrs. Darsh Lenka,Science,B.A,11 years,37,"[""Class 6"", ""Class 5"", ""Class 6"", ""Class 10""]",9876906224,45051,2023-03-30
+567,Mr. Abhinav Sahu,Mathematics,M.Sc,4 years,37,"[""Class 7"", ""Class 2"", ""Class 10""]",9793969230,76567,2012-10-10
+568,Mrs. Pari Behera,Odia,M.A,6 years,37,"[""Class 5"", ""Class 5"", ""Class 3"", ""Class 1""]",9392176384,81465,2011-10-14
+569,Ms. Ishaan Patra,Science,B.Ed,4 years,37,"[""Class 1"", ""Class 10"", ""Class 9"", ""Class 9""]",9587297970,37094,2002-12-30
+570,Mr. Daksh Lenka,English,M.Sc,2 years,37,"[""Class 6"", ""Class 2""]",9780694906,65112,2006-08-01
+571,Mr. Prisha Dash,Computer Science,B.Ed,11 years,37,"[""Class 2"", ""Class 1""]",9510964220,45532,2010-07-24
+572,Ms. Aditya Dash,English,M.Sc,7 years,37,"[""Class 5"", ""Class 5""]",9535021950,73629,2016-09-01
+573,Mr. Aarav Patra,Mathematics,M.A,24 years,37,"[""Class 7"", ""Class 2"", ""Class 1"", ""Class 3""]",9206231316,28430,2024-09-07
+574,Ms. Kiaan Mohanty,Social Science,B.Sc,5 years,37,"[""Class 5"", ""Class 2""]",9826110339,36921,2011-05-23
+575,Ms. Krishna Biswal,Computer Science,M.Sc,10 years,37,"[""Class 6"", ""Class 6"", ""Class 10""]",9495518340,28868,2018-12-31
+576,Mrs. Diya Mallick,Social Science,B.Ed,6 years,38,"[""Class 1"", ""Class 3""]",9314661769,28964,2018-05-25
+577,Ms. Avni Patra,Social Science,B.A,6 years,38,"[""Class 10"", ""Class 4""]",9375947229,56569,2008-01-13
+578,Mr. Vedant Nayak,Science,B.Sc,25 years,38,"[""Class 4"", ""Class 5"", ""Class 3""]",9919480026,61064,2017-02-19
+579,Mrs. Reyansh Dash,Computer Science,M.A,21 years,38,"[""Class 7"", ""Class 4"", ""Class 9"", ""Class 9""]",9354785516,76184,2010-12-21
+580,Ms. Aanya Das,Science,B.Ed,2 years,38,"[""Class 3"", ""Class 7""]",9957998368,83353,2021-02-10
+581,Mr. Kian Singh,Science,B.Sc,14 years,38,"[""Class 8"", ""Class 4"", ""Class 9""]",9436360957,83799,2002-08-24
+582,Mr. Navya Dash,Hindi,B.Ed,18 years,38,"[""Class 4"", ""Class 1"", ""Class 4""]",9103522126,34579,2008-05-27
+583,Ms. Divyansh Senapati,Hindi,M.Sc,20 years,38,"[""Class 1"", ""Class 9""]",9906833630,73937,2013-08-22
+584,Mr. Rudra Sahoo,Odia,M.A,16 years,38,"[""Class 3"", ""Class 1""]",9489956960,52165,2002-07-11
+585,Mrs. Kiaan Behera,Mathematics,B.Sc,1 years,38,"[""Class 10"", ""Class 9"", ""Class 3""]",9559067173,49016,2019-10-14
+586,Mrs. Yash Senapati,English,B.Ed,19 years,38,"[""Class 4"", ""Class 3"", ""Class 1"", ""Class 10""]",9614144335,43916,2016-03-09
+587,Ms. Anaya Naik,Mathematics,M.A,12 years,38,"[""Class 6"", ""Class 3""]",9248076531,54034,2013-02-15
+588,Ms. Avni Singh,Social Science,M.A,2 years,38,"[""Class 4"", ""Class 4"", ""Class 1""]",9378751820,28219,2002-09-15
+589,Mrs. Arnav Sahu,Computer Science,M.A,6 years,38,"[""Class 9"", ""Class 9"", ""Class 10""]",9442489994,37882,2001-02-24
+590,Mr. Divyansh Mohapatra,Computer Science,M.Sc,20 years,38,"[""Class 8"", ""Class 1""]",9796133261,46647,2003-12-05
+591,Ms. Pihu Singh,English,B.A,12 years,38,"[""Class 10"", ""Class 8"", ""Class 2""]",9804162133,57005,2024-07-09
+592,Mrs. Shivansh Dash,Mathematics,B.Ed,3 years,38,"[""Class 10"", ""Class 5"", ""Class 9""]",9606453590,32322,2022-06-16
+593,Mrs. Yash Das,Odia,M.Sc,16 years,38,"[""Class 3"", ""Class 1"", ""Class 6""]",9402344070,27012,2014-01-02
+594,Ms. Ishaan Patra,Computer Science,B.Ed,2 years,38,"[""Class 3"", ""Class 7"", ""Class 4"", ""Class 7""]",9842045033,74838,2013-10-18
+595,Mrs. Myra Biswal,Hindi,B.Ed,5 years,38,"[""Class 6"", ""Class 6"", ""Class 5"", ""Class 7""]",9716322380,84677,2009-12-28
+596,Ms. Kian Dash,Social Science,B.Ed,7 years,39,"[""Class 10"", ""Class 1"", ""Class 5"", ""Class 1""]",9187196454,81355,2002-08-23
+597,Mr. Raghav Samantaray,Social Science,M.Sc,8 years,39,"[""Class 1"", ""Class 2""]",9765540461,83394,2004-11-26
+598,Ms. Shanaya Tripathy,English,M.Sc,1 years,39,"[""Class 1"", ""Class 10"", ""Class 1"", ""Class 4""]",9814188976,58239,2022-10-28
+599,Mr. Aanya Biswal,Computer Science,B.A,3 years,39,"[""Class 7"", ""Class 6"", ""Class 8"", ""Class 6""]",9108440811,37364,2008-04-01
+600,Mr. Arnav Mishra,Social Science,B.Sc,23 years,39,"[""Class 8"", ""Class 1"", ""Class 9"", ""Class 5""]",9961361309,64395,2008-08-24
+601,Ms. Diya Naik,Hindi,M.Sc,14 years,39,"[""Class 6"", ""Class 7""]",9804034327,29953,2002-05-23
+602,Mrs. Inaya Kumar,Science,M.Sc,11 years,39,"[""Class 5"", ""Class 4"", ""Class 4""]",9461812462,47683,2004-12-19
+603,Mrs. Raghav Biswal,English,B.Sc,12 years,39,"[""Class 9"", ""Class 4"", ""Class 3"", ""Class 3""]",9881066572,33636,2013-04-14
+604,Mr. Kian Panda,Mathematics,B.Sc,10 years,39,"[""Class 9"", ""Class 4""]",9187335636,82712,2018-12-09
+605,Mr. Avni Tripathy,Odia,B.Sc,17 years,39,"[""Class 9"", ""Class 10"", ""Class 1"", ""Class 8""]",9923047100,34769,2014-01-01
+606,Mrs. Navya Swain,Science,M.A,10 years,39,"[""Class 3"", ""Class 4"", ""Class 6"", ""Class 9""]",9788293437,72069,2009-03-19
+607,Ms. Kian Sahu,Social Science,M.Sc,2 years,39,"[""Class 1"", ""Class 10""]",9688785552,72699,2022-12-07
+608,Ms. Ayaan Panda,Mathematics,B.A,11 years,39,"[""Class 3"", ""Class 4""]",9959626639,53268,2013-10-20
+609,Ms. Vihaan Jena,English,M.Sc,25 years,39,"[""Class 1"", ""Class 2""]",9162669214,80063,2007-01-24
+610,Ms. Kabir Tripathy,Hindi,M.Sc,19 years,39,"[""Class 9"", ""Class 6""]",9461228118,59877,2016-07-18
+611,Ms. Kabir Mohapatra,English,B.A,25 years,39,"[""Class 9"", ""Class 4""]",9876379324,51880,2021-11-18
+612,Ms. Ayaan Tripathy,Odia,B.Sc,6 years,39,"[""Class 1"", ""Class 4"", ""Class 1""]",9352902312,68102,2000-11-08
+613,Ms. Myra Kumar,English,B.Ed,3 years,39,"[""Class 1"", ""Class 10"", ""Class 2""]",9884401639,80147,2013-11-17
+614,Mr. Vivaan Patel,Hindi,B.A,10 years,40,"[""Class 6"", ""Class 9""]",9323549698,70752,2024-07-24
+615,Mrs. Diya Nayak,Computer Science,B.Ed,9 years,40,"[""Class 2"", ""Class 8"", ""Class 5"", ""Class 4""]",9671020274,30825,2006-10-26
+616,Mrs. Riya Parida,Mathematics,M.A,20 years,40,"[""Class 1"", ""Class 10"", ""Class 6"", ""Class 8""]",9813271894,40971,2018-02-25
+617,Mr. Harsh Parida,Science,B.Ed,25 years,40,"[""Class 9"", ""Class 4"", ""Class 3""]",9339925846,79619,2020-05-17
+618,Ms. Khushi Kar,Science,B.Ed,3 years,40,"[""Class 8"", ""Class 9""]",9788147554,57271,2016-07-16
+619,Mrs. Navya Parida,Odia,B.Ed,25 years,40,"[""Class 10"", ""Class 5"", ""Class 2""]",9699581971,55806,2014-02-25
+620,Ms. Rudra Mohapatra,Mathematics,M.A,22 years,40,"[""Class 8"", ""Class 5"", ""Class 5""]",9319671759,74082,2019-07-22
+621,Mrs. Vihaan Biswal,Science,M.A,17 years,40,"[""Class 10"", ""Class 5"", ""Class 4""]",9595175670,41822,2017-09-03
+622,Mr. Riya Behera,Science,B.Ed,13 years,40,"[""Class 8"", ""Class 10""]",9555039365,57181,2001-07-03
+623,Mrs. Vivaan Nayak,English,B.Ed,17 years,40,"[""Class 7"", ""Class 1"", ""Class 5""]",9723143483,57969,2008-09-10
+624,Ms. Harsh Patra,Science,M.Sc,3 years,40,"[""Class 6"", ""Class 2"", ""Class 2""]",9166239652,46349,2013-08-11
+625,Mr. Avni Panda,English,B.Sc,25 years,40,"[""Class 1"", ""Class 10"", ""Class 8""]",9240915389,46693,2021-09-04
+626,Mr. Krishna Samantaray,Odia,M.A,13 years,40,"[""Class 9"", ""Class 5"", ""Class 1""]",9945859984,71067,2012-02-18
+627,Mr. Shaurya Tripathy,Hindi,B.Sc,6 years,40,"[""Class 4"", ""Class 8"", ""Class 3""]",9106989549,29446,2013-08-19
+628,Ms. Krishna Biswal,English,B.A,10 years,40,"[""Class 10"", ""Class 8"", ""Class 7""]",9204607893,56827,2004-07-04
+629,Mrs. Myra Patel,Odia,M.Sc,25 years,40,"[""Class 3"", ""Class 3"", ""Class 7""]",9243272540,56060,2020-03-19
+630,Mrs. Arjun Mallick,English,M.Sc,20 years,40,"[""Class 6"", ""Class 8"", ""Class 6""]",9587890730,60828,2007-10-25
+631,Mr. Aarav Sahu,Mathematics,B.A,1 years,41,"[""Class 3"", ""Class 3"", ""Class 1"", ""Class 5""]",9483180669,52019,2010-07-13
+632,Mr. Pari Sahu,Computer Science,B.A,2 years,41,"[""Class 9"", ""Class 9"", ""Class 7""]",9584520732,66893,2022-07-25
+633,Mr. Aarav Mishra,Mathematics,B.A,17 years,41,"[""Class 7"", ""Class 3""]",9309044638,29684,2004-06-25
+634,Mr. Anaya Samantaray,Science,B.Sc,12 years,41,"[""Class 6"", ""Class 7"", ""Class 10""]",9906274471,46484,2021-07-03
+635,Mr. Harsh Kumar,Social Science,M.A,20 years,41,"[""Class 1"", ""Class 9"", ""Class 10""]",9764590746,59420,2019-01-14
+636,Mr. Diya Biswal,Computer Science,M.Sc,20 years,41,"[""Class 3"", ""Class 4"", ""Class 3"", ""Class 3""]",9867861916,79348,2018-06-20
+637,Ms. Kian Kar,English,M.A,1 years,41,"[""Class 10"", ""Class 5"", ""Class 3"", ""Class 9""]",9875145972,35744,2009-06-19
+638,Mrs. Prisha Mishra,Odia,M.Sc,4 years,41,"[""Class 3"", ""Class 10"", ""Class 8""]",9623267255,69749,2008-08-29
+639,Ms. Inaya Mohapatra,Social Science,M.Sc,3 years,41,"[""Class 9"", ""Class 6"", ""Class 2"", ""Class 8""]",9393803290,38368,2000-12-15
+640,Ms. Aryan Rout,Computer Science,B.Sc,1 years,41,"[""Class 3"", ""Class 1"", ""Class 4""]",9243630267,54989,2008-02-16
+641,Mrs. Anika Tripathy,Social Science,B.A,6 years,41,"[""Class 6"", ""Class 7""]",9309144770,31871,2019-02-28
+642,Ms. Rudra Senapati,Computer Science,B.Ed,12 years,41,"[""Class 9"", ""Class 1"", ""Class 5""]",9661520608,79099,2001-06-29
+643,Mr. Myra Swain,Computer Science,M.Sc,4 years,42,"[""Class 1"", ""Class 7"", ""Class 1""]",9396080008,44976,2021-10-21
+644,Mrs. Aryan Barik,Hindi,B.A,11 years,42,"[""Class 6"", ""Class 7""]",9274681509,46953,2005-04-21
+645,Ms. Ishaan Patra,Odia,B.Sc,3 years,42,"[""Class 1"", ""Class 10"", ""Class 3""]",9743207992,58024,2005-06-24
+646,Mrs. Riya Patel,Computer Science,M.Sc,16 years,42,"[""Class 5"", ""Class 1"", ""Class 3""]",9693777488,49037,2015-04-10
+647,Mr. Darsh Parida,Hindi,M.Sc,7 years,42,"[""Class 8"", ""Class 8""]",9905578085,39329,2008-03-17
+648,Mrs. Inaya Senapati,Social Science,B.A,6 years,42,"[""Class 4"", ""Class 7"", ""Class 3""]",9709147611,48849,2003-06-20
+649,Ms. Vedant Jena,Hindi,B.Ed,10 years,42,"[""Class 6"", ""Class 7""]",9299913097,84414,2009-11-17
+650,Mr. Darsh Swain,Mathematics,B.Sc,9 years,42,"[""Class 2"", ""Class 8""]",9461113299,82233,2010-10-01
+651,Ms. Myra Mishra,Odia,B.Ed,8 years,42,"[""Class 7"", ""Class 7"", ""Class 8""]",9289535378,39628,2019-01-19
+652,Mr. Anaya Singh,Hindi,B.Sc,16 years,42,"[""Class 9"", ""Class 3""]",9466886356,30925,2011-11-25
+653,Mrs. Aryan Barik,Mathematics,M.A,11 years,42,"[""Class 5"", ""Class 10"", ""Class 9""]",9876503432,50353,2012-07-26
+654,Ms. Shivansh Swain,Odia,M.Sc,7 years,42,"[""Class 4"", ""Class 3""]",9560186156,67485,2021-06-09
+655,Mrs. Anika Parida,Odia,B.A,17 years,42,"[""Class 8"", ""Class 8"", ""Class 7""]",9303448413,53496,2011-08-24
+656,Ms. Vedant Sahoo,English,B.Ed,16 years,42,"[""Class 7"", ""Class 6"", ""Class 8"", ""Class 7""]",9569955657,69796,2005-12-04
+657,Mr. Prisha Sahu,Science,M.A,24 years,42,"[""Class 8"", ""Class 9"", ""Class 3"", ""Class 6""]",9465625495,32271,2006-09-21
+658,Mr. Riya Panda,Odia,B.Sc,13 years,42,"[""Class 4"", ""Class 3""]",9504770925,43210,2013-02-17
+659,Ms. Khushi Sharma,English,B.Ed,9 years,43,"[""Class 8"", ""Class 4""]",9237781448,33578,2020-07-10
+660,Mr. Harsh Swain,Social Science,B.Ed,23 years,43,"[""Class 2"", ""Class 5"", ""Class 9""]",9630021698,54207,2005-07-15
+661,Ms. Kiaan Kumar,Mathematics,B.A,2 years,43,"[""Class 1"", ""Class 4""]",9789349770,62233,2023-03-24
+662,Mr. Anika Rout,Social Science,B.Sc,12 years,43,"[""Class 4"", ""Class 2"", ""Class 4""]",9567619701,38877,2012-04-15
+663,Ms. Darsh Behera,Mathematics,M.Sc,6 years,43,"[""Class 8"", ""Class 6""]",9649788479,30239,2011-08-31
+664,Mr. Navya Das,Science,B.Sc,4 years,43,"[""Class 1"", ""Class 3""]",9952817783,83749,2011-09-22
+665,Mrs. Kian Kumar,Hindi,B.Sc,20 years,43,"[""Class 3"", ""Class 9"", ""Class 2"", ""Class 8""]",9756393318,55957,2010-05-24
+666,Mr. Aarav Patel,Science,M.Sc,9 years,43,"[""Class 7"", ""Class 10"", ""Class 2""]",9170117992,61545,2022-03-25
+667,Ms. Myra Mishra,Social Science,B.A,20 years,43,"[""Class 4"", ""Class 1""]",9968040276,72110,2004-06-20
+668,Ms. Harsh Maharana,Hindi,B.Sc,16 years,43,"[""Class 8"", ""Class 1"", ""Class 7""]",9916278611,59943,2001-01-25
+669,Ms. Arnav Sahu,Hindi,B.Ed,11 years,43,"[""Class 10"", ""Class 3"", ""Class 3"", ""Class 10""]",9189105412,70217,2022-02-18
+670,Mrs. Rudra Sharma,Hindi,B.Sc,16 years,43,"[""Class 5"", ""Class 5""]",9743649376,58538,2005-01-20
+671,Mr. Prisha Swain,Hindi,B.Ed,6 years,43,"[""Class 10"", ""Class 3""]",9933319089,38888,2008-07-13
+672,Ms. Inaya Maharana,Odia,B.Ed,2 years,43,"[""Class 3"", ""Class 3"", ""Class 5"", ""Class 10""]",9979518573,66697,2013-05-11
+673,Mrs. Pari Swain,Mathematics,M.Sc,25 years,44,"[""Class 9"", ""Class 1"", ""Class 3"", ""Class 6""]",9664798399,46211,2017-04-05
+674,Mrs. Kian Barik,Computer Science,B.A,23 years,44,"[""Class 1"", ""Class 2"", ""Class 10"", ""Class 4""]",9324887383,73538,2017-07-02
+675,Mrs. Darsh Behera,Odia,B.Ed,6 years,44,"[""Class 8"", ""Class 2"", ""Class 2"", ""Class 4""]",9417598931,36402,2019-10-30
+676,Mr. Jai Sharma,Hindi,M.Sc,15 years,44,"[""Class 4"", ""Class 7"", ""Class 4"", ""Class 9""]",9364901370,71728,2010-10-29
+677,Ms. Kian Nayak,Science,M.Sc,22 years,44,"[""Class 6"", ""Class 6""]",9573369003,53089,2014-10-18
+678,Ms. Saanvi Mishra,Computer Science,B.Sc,11 years,44,"[""Class 7"", ""Class 1"", ""Class 8"", ""Class 6""]",9664147145,84544,2007-09-06
+679,Ms. Aryan Mishra,Social Science,B.A,23 years,44,"[""Class 1"", ""Class 7"", ""Class 9"", ""Class 5""]",9731189558,67685,2017-08-20
+680,Mrs. Aditya Das,Mathematics,B.Ed,13 years,44,"[""Class 1"", ""Class 7""]",9502029471,68571,2020-10-26
+681,Mrs. Shivansh Naik,Science,B.A,18 years,44,"[""Class 3"", ""Class 8"", ""Class 2""]",9855388610,32243,2023-06-21
+682,Mr. Daksh Lenka,English,M.Sc,1 years,44,"[""Class 8"", ""Class 2""]",9277955293,41355,2013-07-24
+683,Ms. Khushi Pradhan,Hindi,B.Sc,10 years,44,"[""Class 2"", ""Class 5"", ""Class 10""]",9876414144,55302,2002-08-01
+684,Mrs. Sai Samantaray,Computer Science,B.Ed,16 years,44,"[""Class 6"", ""Class 2"", ""Class 10"", ""Class 2""]",9605925374,54716,2018-08-29
+685,Ms. Aditya Barik,Science,M.A,19 years,44,"[""Class 7"", ""Class 5""]",9256393821,59561,2004-11-12
+686,Mrs. Rishabh Kumar,Social Science,B.Sc,10 years,44,"[""Class 8"", ""Class 8""]",9208448697,42670,2002-03-23
+687,Ms. Shivansh Das,Hindi,B.Ed,23 years,45,"[""Class 7"", ""Class 3"", ""Class 10""]",9610104835,36951,2012-10-27
+688,Mr. Ishaan Mallick,English,M.A,21 years,45,"[""Class 5"", ""Class 2"", ""Class 3""]",9968037654,79671,2015-10-17
+689,Ms. Jai Barik,Hindi,B.Sc,19 years,45,"[""Class 10"", ""Class 10"", ""Class 10"", ""Class 1""]",9955029423,77072,2018-01-28
+690,Mr. Atharv Barik,Odia,M.Sc,15 years,45,"[""Class 3"", ""Class 2"", ""Class 3"", ""Class 4""]",9390457915,73899,2013-11-19
+691,Mr. Shivansh Lenka,English,B.Sc,4 years,45,"[""Class 10"", ""Class 10"", ""Class 8"", ""Class 7""]",9594728124,56373,2021-10-01
+692,Mrs. Vihaan Kumar,Odia,B.Sc,12 years,45,"[""Class 5"", ""Class 1""]",9443889877,52314,2009-07-19
+693,Mr. Ishaan Nayak,Science,B.Sc,20 years,45,"[""Class 4"", ""Class 1"", ""Class 2"", ""Class 7""]",9424550112,77797,2022-05-02
+694,Ms. Atharv Samantaray,Odia,B.Sc,16 years,45,"[""Class 10"", ""Class 10"", ""Class 1""]",9371586932,83408,2024-03-05
+695,Mr. Shanaya Mohanty,Social Science,B.Sc,9 years,45,"[""Class 9"", ""Class 2"", ""Class 10""]",9925554194,33157,2022-03-25
+696,Mr. Aarav Patel,Odia,B.Ed,7 years,45,"[""Class 9"", ""Class 7""]",9483290897,39546,2002-02-09
+697,Ms. Aanya Rout,Science,B.Sc,16 years,45,"[""Class 5"", ""Class 10"", ""Class 10"", ""Class 5""]",9823636185,48352,2000-11-26
+698,Mr. Ishaan Behera,Hindi,B.A,12 years,45,"[""Class 7"", ""Class 4""]",9373118303,48522,2009-04-12
