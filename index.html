@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ଶିକ୍ଷା ସେବା - Odisha Education Management System</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Oriya:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Loading Screen with Odisha Culture -->
+    <div id="loadingScreen" class="odisha-loading-screen">
+        <div class="odisha-loading-container">
+            <div class="konark-wheel-loader">
+                <div class="wheel-design">
+                    <div class="wheel-spokes"></div>
+                </div>
+            </div>
+            <div class="loading-text">
+                <h1>🏛️ ଶିକ୍ଷା ସେବା</h1>
+                <h2>Odisha Education Management Portal</h2>
+                <div class="heritage-tagline">
+                    <span class="odia-text">ଜ୍ଞାନ ହିଁ ଶକ୍ତି</span>
+                    <span class="english-text">Knowledge is Power</span>
+                </div>
+            </div>
+            <div class="loading-progress">
+                <div id="progressBar" class="progress-bar"></div>
+            </div>
+            <div id="loadingText" class="loading-status">Connecting to live school data system...</div>
+        </div>
+    </div>
+
+    <!-- Login Page with Odisha Cultural Theme -->
+    <div id="loginPage" class="odisha-login-container">
+        <div class="cultural-background">
+            <div class="pattachitra-pattern"></div>
+        </div>
+
+        <div class="odisha-login-shell">
+            <div class="odisha-login-header">
+                <div class="govt-emblem">
+                    <div class="ashoka-chakra">⚙</div>
+                    <div class="state-emblem">🏛️</div>
+                </div>
+                <div class="system-branding">
+                    <h1 class="odia-brand">ଶିକ୍ଷା ସେବା</h1>
+                    <span class="english-brand">Odisha Education Management System</span>
+                    <div class="heritage-subtitle">
+                        <span class="konark-symbol">☀</span>
+                        <span>Government of Odisha</span>
+                    </div>
+                </div>
+
+                <div class="live-indicator">
+                    <div class="status-dot green"></div>
+                    <span>Live System - ଜୀବନ୍ତ ତଥ୍ୟ</span>
+                </div>
+            </div>
+
+            <div class="odisha-login-form">
+                <div class="welcome-section">
+                    <h2 class="login-title">ସ୍ୱାଗତମ୍ | Welcome</h2>
+                    <p class="login-subtitle">Connect to real-time education data across Odisha</p>
+                </div>
+
+                <div class="system-status">
+                    <h3>🔗 System Status - ସିଷ୍ଟମ୍ ସ୍ଥିତି</h3>
+                    <div class="status-grid">
+                        <div class="status-item">
+                            <div class="status-dot green"></div>
+                            <span>150+ Schools Connected</span>
+                        </div>
+                        <div class="status-item">
+                            <div class="status-dot green"></div>
+                            <span>5,000+ Students Active</span>
+                        </div>
+                        <div class="status-item">
+                            <div class="status-dot green"></div>
+                            <span>750+ Teachers Online</span>
+                        </div>
+                        <div class="status-item">
+                            <div class="status-dot green"></div>
+                            <span>Real-time Data Sync</span>
+                        </div>
+                    </div>
+                </div>
+
+                <form id="loginForm" class="login-form">
+                    <div class="sap-form-group">
+                        <label for="userRole" class="sap-label">
+                            👤 User Role - ଉପଯୋଗକର୍ତ୍ତା ପ୍ରକାର
+                        </label>
+                        <select id="userRole" class="sap-select" required>
+                            <option value="">Select your role - ଆପଣଙ୍କ ଭୂମିକା ଚୟନ କରନ୍ତୁ</option>
+                            <option value="student">👨‍🎓 Student - ଛାତ୍ର</option>
+                            <option value="parent">👨‍👩‍👧‍👦 Parent - ଅଭିଭାବକ</option>
+                            <option value="teacher">👩‍🏫 Teacher - ଶିକ୍ଷକ</option>
+                            <option value="headmaster">👨‍💼 Headmaster - ପ୍ରଧାନ ଶିକ୍ଷକ</option>
+                            <option value="block_officer">🏛️ Block Officer - ବ୍ଲକ କର୍ମଚାରୀ</option>
+                            <option value="district_officer">🏢 District Officer - ଜିଲ୍ଲା କର୍ମଚାରୀ</option>
+                        </select>
+                    </div>
+
+                    <div class="sap-form-group">
+                        <label for="username" class="sap-label">
+                            🔑 Username - ଉପଯୋଗକର୍ତ୍ତା ନାମ
+                        </label>
+                        <input type="text" id="username" class="sap-input" placeholder="Enter username" required>
+                    </div>
+
+                    <div class="sap-form-group">
+                        <label for="password" class="sap-label">
+                            🔒 Password - ପାସୱାର୍ଡ
+                        </label>
+                        <input type="password" id="password" class="sap-input" placeholder="Enter password" required>
+                    </div>
+
+                    <button type="submit" class="sap-btn sap-btn-primary">
+                        🚀 Connect to Live System - ସିଷ୍ଟମରେ ସଂଯୋଗ କରନ୍ତୁ
+                    </button>
+                </form>
+
+                <div class="demo-credentials">
+                    <h3>🎯 Quick Access - ତତ୍କ୍ଷଣାତ୍ ପ୍ରବେଶ</h3>
+                    <p class="demo-note">Click any role below for instant demo access</p>
+
+                    <div class="credentials-grid">
+                        <div class="credential-card" onclick="app.quickLogin('student')">
+                            <div class="role-icon">👨‍🎓</div>
+                            <div class="role-name">Student - ଛାତ୍ର</div>
+                            <div class="credential-info">Ravi Kumar Patel</div>
+                            <div class="data-count">Academic Records</div>
+                        </div>
+
+                        <div class="credential-card" onclick="app.quickLogin('teacher')">
+                            <div class="role-icon">👩‍🏫</div>
+                            <div class="role-name">Teacher - ଶିକ୍ଷକ</div>
+                            <div class="credential-info">Dr. Prakash Mishra</div>
+                            <div class="data-count">5 Classes</div>
+                        </div>
+
+                        <div class="credential-card" onclick="app.quickLogin('headmaster')">
+                            <div class="role-icon">👨‍💼</div>
+                            <div class="role-name">Headmaster</div>
+                            <div class="credential-info">Dr. Bijay Mohapatra</div>
+                            <div class="data-count">250 Students</div>
+                        </div>
+
+                        <div class="credential-card" onclick="app.quickLogin('district_officer')">
+                            <div class="role-icon">🏢</div>
+                            <div class="role-name">District Officer</div>
+                            <div class="credential-info">Dr. Rajesh Kumar</div>
+                            <div class="data-count">150+ Schools</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="cultural-footer">
+                    <div class="footer-pattern"></div>
+                    <p class="heritage-text">
+                        <span class="odia-text">ଗୁରୁବ୍ରହ୍ମା ଗୁରୁବିଷ୍ଣୁ</span><br>
+                        <small>"The teacher is Brahma, the teacher is Vishnu"</small>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Application -->
+    <div id="mainApp" class="hidden sap-shell">
+        <header class="sap-header">
+            <div class="sap-header-left">
+                <div class="system-brand">
+                    <span class="brand-icon">🏛️</span>
+                    <div class="brand-text">
+                        <span class="odia-brand-main">ଶିକ୍ଷା ସେବା</span>
+                        <small class="english-brand-sub">Odisha Education Portal</small>
+                    </div>
+                </div>
+
+                <div class="real-time-stats">
+                    <div class="stat-item">
+                        <span class="stat-label">Active Users:</span>
+                        <span class="stat-value" id="activeUsers">1,247</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-label">Last Sync:</span>
+                        <span class="stat-value" id="lastSync">Live</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="sap-header-right">
+                <div class="language-toggle">
+                    <button class="lang-btn active">ଓଡ଼ିଆ</button>
+                    <button class="lang-btn">English</button>
+                </div>
+
+                <div class="sap-header-user">
+                    <div class="user-info">
+                        <span id="headerUserName" class="user-name">User</span>
+                        <small class="user-role">Role</small>
+                    </div>
+                    <div id="headerUserAvatar" class="sap-user-avatar">👤</div>
+                </div>
+            </div>
+        </header>
+
+        <div class="main-container">
+            <aside class="sap-sidebar">
+                <nav id="sidebarNav" class="sap-nav">
+                    <!-- Navigation will be populated by JavaScript -->
+                </nav>
+
+                <div class="sidebar-footer">
+                    <div class="cultural-element">
+                        <div class="konark-mini">☀</div>
+                        <small>Powered by Konark Sun Temple inspiration</small>
+                    </div>
+                </div>
+            </aside>
+
+            <main class="sap-main">
+                <div class="sap-breadcrumb">
+                    <span>🏠 Dashboard</span>
+                    <span class="sap-breadcrumb-separator">›</span>
+                    <span id="currentPage">Overview</span>
+                </div>
+
+                <div class="sap-content">
+                    <div class="sap-page-header">
+                        <div class="title-section">
+                            <h1 id="pageTitle" class="sap-page-title">Dashboard</h1>
+                            <p id="pageSubtitle" class="sap-page-subtitle">Welcome to your education portal</p>
+                        </div>
+
+                        <div class="header-actions">
+                            <button class="action-btn">
+                                🔄 Refresh Data
+                            </button>
+                        </div>
+                    </div>
+
+                    <div id="contentContainer" class="content-area">
+                        <!-- Dynamic content will be loaded here -->
+                    </div>
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <!-- Notification Container -->
+    <div class="notification-container" id="notificationContainer">
+        <!-- Notifications will appear here -->
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
